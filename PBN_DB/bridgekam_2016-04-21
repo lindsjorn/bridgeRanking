@@ -1,0 +1,810 @@
+% PBN 2.0
+% EXPORT
+% 
+% <META  name=Generator                  content="Ruter i Norge">
+% <META  name=Version                    content="4.10">
+% <META  name=Author                     content="www.brenning.se">
+% 
+% <META  name=Licencee                   content="9901 Norsk Bridgeforbund">
+% <META  name=Arranger                   content="0128 Bridgekameratene">
+% <META  name=Signature                  content="9901 Norsk Bridgeforbund">
+% <META  name=Created                    content="2016-04-21 22:20:35">
+% 
+% <META  name=ContestDate                content="2016-04-21">
+% <META  name=ContestName                content="Bridgekameratene">
+% <META  name=ContestType                content="2">
+% <META  name=ScoringType                content="MatchPoints;MP1">
+% <META  name=Barometer                  content="Y">
+% <META  name=TournamentDirector         content=";;;;;;;;;;;;;;;;;;">
+% 
+% <META  name=TableCount                 content="6">
+% <META  name=PairCount                  content="12">
+% <META  name=PhantomCount               content="0">
+% <META  name=BoardCount                 content="27">
+% <META  name=RoundCount                 content="9">
+% <META  name=BoardCountSession          content="27">
+% <META  name=BoardCountSessionMax       content="27">
+% <META  name=Average                    content="">
+% <META  name=HandicapPercentageAverage  content="">
+% 
+% <META  name=CRCategoryID               content="1">
+% <META  name=Factor                     content="1">
+% <META  name=FactorReason               content="">
+% <META  name=ContestID                  content="999999">
+% <META  name=SerialNumber               content="34">
+% <META  name=PlayerCategoryCount        content="">
+% 
+% <META  name=CRMultiSession             content="">
+% <META  name=CRMultiSessionID           content="">
+% <META  name=CRSession                  content="">
+% <META  name=CRSessionCount             content="">
+% <META  name=CRCutAfterSession          content="">
+% 
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ.4.AJ87.AQJT62 AT83.KQ98.32.K94 9.JT653.9654.853 K76542.A72.KQT.7"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[TotalScoreTable "Rank\2R;RankTie\2R;PairId\2R;Table\1R;Direction\5R;TotalScoreMP\3R;TotalPercentage\5R;Names\49L;NrBoards\2R;Club\35L;MemberID1\7R;MemberID2\7R;Sex1\3R;Sex2\3R"]
+ 1  - 12 6 "N-S"  26 59.63 "Frédéric Wilt - Håvard Heimset Larsen"           27 "Bridgekameratene"                  "23838" "24610" "M" "M"
+ 2  -  4 2 "E-W"  23 58.52 "Sveinung Ørjansen - Fredd Kristiansen"           27 "Bridgekameratene"                  "20425" "17936" "M" "M"
+ 3  -  7 4 "N-S"  18 56.67 "John Berger - Tor Inge Iversen"                  27 "Bridgekameratene"                  "12035" "14403" "M" "M"
+ 4  -  9 5 "N-S"  10 53.70 "Jarl Johansen - Viggo Nordvik"                   27 "Bridgekameratene"                  "21240" "25885" "M" "M"
+ 5  - 10 5 "E-W"   9 53.33 "Tormod Clemetsen - Jorunn Øygard"                27 "TopBridge BC - Bridgekameratene"    "1153" "40507" "M" "M"
+ 6  - 11 6 "E-W"   2 50.74 "Anne Birgitte Fossum - Svein Arild Naas Olsen"   27 "TopBridge BC"                      "35371" "14358" "W" "M"
+ 7  -  8 4 "E-W"  -5 48.15 "Tor Henriksen - Arnold Mundal"                   27 "Bridgekameratene - Astra/ABC"      "15049"  "1180" "M" "M"
+ 8  -  2 1 "E-W" -11 45.93 "Tommy Sandsmark - Halvor Fjørtoft"               27 "Blommenholm BK - Bridgekameratene"  "2281" "18617" "M" "M"
+ 9 11  1 1 "N-S" -17 43.70 "Mads Vilhelm Lindsjørn - Leif-Erik Hoel Stabell" 27 "Akademisk BK - Spiren BK"          "42896" "41785" "M" "M"
+ 9 11  3 2 "N-S" -17 43.70 "Gunnar Huun - Jill Huun"                         27 "Bridgekameratene"                  "16805" "16806" "M" "W"
+ 9 11  5 3 "E-W" -17 43.70 "Arild Sunde - Bjørn Myhr"                        27 "Molde BK - Jessheim BK"            "41350" "28091" "M" "M"
+12  -  6 3 "N-S" -21 42.22 "Kyrre Gran - Evy Jakobsen"                       27 "Bridgekameratene"                  "37227" "35573" "M" "W"
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 1  1  2 4S   W 11 H3      -  "450"  0  0  50  50
+2 1  3  4 4S   W 11 H4      -  "450"  0  0  50  50
+3 1  6  5 4S   W 11 H4      -  "450"  0  0  50  50
+4 1  7  8 4S   W 11 SQ      -  "450"  0  0  50  50
+5 1  9 10 4S   W 11 H4      -  "450"  0  0  50  50
+6 1 12 11 5S   W 11 H4      -  "450"  0  0  50  50
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:32.KQT973.AK75.K AQT65.AJ.QJ8.742 KJ84.8.632.QT985 97.6542.T94.AJ63"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+3 1  6  5 2D   E  8 C7      -   "90"  3 -3  80  20
+4 1  7  8 2D   E  8 C7      -   "90"  3 -3  80  20
+6 1 12 11 2D   E  8 DQ      -   "90"  3 -3  80  20
+5 1  9 10 2H   E  8 DQ      -  "110" -1  1  40  60
+1 1  1  2 2H   E  9 DQ      -  "140" -4  4  10  90
+2 1  3  4 2H   E  9 DQ      -  "140" -4  4  10  90
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:JT865.AKJ6..K742 A.Q853.J8653.985 KQ432.T97.42.AQ3 97.42.AKQT97.JT6"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 1  1  2 4S   S 12 H3  "480"      -  2 -2  70  30
+2 1  3  4 4S   S 12 C9  "480"      -  2 -2  70  30
+4 1  7  8 4S   S 12 H5  "480"      -  2 -2  70  30
+6 1 12 11 4S   S 12 H5  "480"      -  2 -2  70  30
+3 1  6  5 4S   S 11 C9  "450"      - -4  4  10  90
+5 1  9 10 4S   S 11 C9  "450"      - -4  4  10  90
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K62.KQ43.KJ3.Q72 Q9753.J75.T96.AT 8.AT92.Q852.J943 AJT4.86.A74.K865"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+4 2  5 10 4H   W  8 CA  "200"      -  5 -5 100   0
+2 2  2  6 3S   N  8 HA      -  "100"  3 -3  80  20
+5 2  7 12 2H   W  8 S2      -  "110"  0  0  50  50
+6 2 11  9 2H   W  8 S6      -  "110"  0  0  50  50
+1 2  1  4 3H   E  9 SQ      -  "140" -3  3  20  80
+3 2  8  3 3H   E 10 H6      -  "170" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J98.KJ872.T82.A9 AQ.A643.A9.KQT87 T7543.5.KQ5.6542 K62.QT9.J7643.J3"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 2  1  4 3N   E  9 S3      -  "400"  3 -3  80  20
+4 2  5 10 3N   W  9 H3      -  "400"  3 -3  80  20
+5 2  7 12 3N   E  9 S3      -  "400"  3 -3  80  20
+2 2  2  6 3N   E 10 S3      -  "430" -1  1  40  60
+3 2  8  3 3N   E 11 S3      -  "460" -4  4  10  90
+6 2 11  9 3N   W 11 S8      -  "460" -4  4  10  90
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:.JT62.AJ4.KQ6543 J98.AK8.87632.J9 QT653.Q943.Q5.AT AK742.75.KT9.872"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+4 2  5 10 3H   W 10 H7      -  "170"  4 -4  90  10
+3 2  8  3 2H   W 10 H5      -  "170"  4 -4  90  10
+2 2  2  6 3H   W 11 DT      -  "200" -1  1  40  60
+5 2  7 12 2H   W 11 DT      -  "200" -1  1  40  60
+6 2 11  9 3H   W 11 SA      -  "200" -1  1  40  60
+1 2  1  4 4H   W 10 SA      -  "620" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K86.9.AJT52.AQJ4 A732.QT53.7.K932 QJT94.AK42.K.T65 5.J876.Q98643.87"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 3  1  6 4S   N 12 D9  "680"      -  5 -5 100   0
+2 3  4  8 4S   N 11 C8  "650"      -  1 -1  60  40
+6 3  9  7 4S   N 11 C8  "650"      -  1 -1  60  40
+3 3 10  2 4S   N 11 S5  "650"      -  1 -1  60  40
+4 3  3 12 5S   N  9 C7      -  "200" -3  3  20  80
+5 3  5 11 4H   N  7 D2      -  "300" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:932.KT752.8.QJT2 AKJ.A3.KT9432.93 QT74.864.QJ6.765 865.QJ9.A75.AK84"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 3  1  6 6D   N 12 S3  "920"      -  4 -4  90  10
+2 3  4  8 6D   N 12 S7  "920"      -  4 -4  90  10
+6 3  9  7 3N   S 12 H2  "490"      -  1 -1  60  40
+5 3  5 11 3N   N 11 H4  "460"      - -1  1  40  60
+3 3 10  2 6N   N 11 H3      -   "50" -3  3  20  80
+4 3  3 12 6DX  N 11 H6      -  "100" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK52.K7.JT8.J642 Q98643.Q6.Q93.53 J.AT9432.A65.KT8 T7.J85.K742.AQ97"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+3 3 10  2 2H   S  9 ST  "140"      -  5 -5 100   0
+1 3  1  6 4H   S  9 D4      -   "50"  0  0  50  50
+4 3  3 12 3H   S  8 D2      -   "50"  0  0  50  50
+2 3  4  8 4H   S  9 ST      -   "50"  0  0  50  50
+6 3  9  7 3N   N  8 D3      -   "50"  0  0  50  50
+5 3  5 11 3N   N  7 D3      -  "100" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q9.T97.T8.AQ8532 AT6.AQJ82.43.T96 K42.653.KQ75.K74 J8753.K4.AJ962.J"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 4  7  5 4S   N 11 DT  "650"      -  5 -5 100   0
+3 4 12  4 4S   N 10 DT  "620"      -  3 -3  80  20
+1 4  1  8 3S   N 10 HT  "170"      - -1  1  40  60
+4 4  2 11 2S   N 10 DT  "170"      - -1  1  40  60
+5 4  3  9 3S   N 10 CA  "170"      - -1  1  40  60
+2 4  6 10 Pass -  - -     "0"      - -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ7.QT43.K84.973 AT953.A2.A7.AT84 Q842.J98.T63.Q65 6.K765.QJ952.KJ2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+4 4  2 11 3N   W  9 D3      -  "400"  4 -4  90  10
+2 4  6 10 3N   E  9 H4      -  "400"  4 -4  90  10
+1 4  1  8 3N   W 10 HJ      -  "430"  1 -1  60  40
+5 4  3  9 3N   E 11 D4      -  "460" -3  3  20  80
+6 4  7  5 3N   W 11 H9      -  "460" -3  3  20  80
+3 4 12  4 3N   W 11 H9      -  "460" -3  3  20  80
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:983.742.QT8732.5 Q54.AQ96.96.AK98 J72.KJ5.KJ5.J763 AKT6.T83.A4.QT42"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+5 4  3  9 3N   S 11 C6  "660"      -  4 -4  90  10
+6 4  7  5 3N   N 11 C5  "660"      -  4 -4  90  10
+1 4  1  8 3N   N 10 D3  "630"      -  0  0  50  50
+2 4  6 10 3N   S 10 D2  "630"      -  0  0  50  50
+3 4 12  4 4S   S 10 C5  "620"      - -3  3  20  80
+4 4  2 11 4DX  W  7 CA  "500"      - -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:532.AT87.8753.82 AKQ76.KQ6.AK.QT7 J98.3.JT92.J9653 T4.J9542.Q64.AK4"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+4 5  4  9 6H   W 11 D8  "100"      -  4 -4  90  10
+6 5  5  3 6S   E 11 H3  "100"      -  4 -4  90  10
+3 5 11  6 5N   W 13 D5      -  "720"  1 -1  60  40
+1 5  1 10 6N   E 12 D8      - "1440" -3  3  20  80
+5 5  2  7 6N   E 12 H3      - "1440" -3  3  20  80
+2 5  8 12 6N   E 12 DT      - "1440" -3  3  20  80
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J62.AJ.AK972.AT9 8743.KT97.T8.K32 AKQ.52.Q543.J865 T95.Q8643.J6.Q74"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+3 5 11  6 3N   E  9 S8      -  "400"  5 -5 100   0
+1 5  1 10 3N   W 10 H4      -  "430" -1  1  40  60
+5 5  2  7 3N   W 10 H2      -  "430" -1  1  40  60
+4 5  4  9 3N   E 10 H7      -  "430" -1  1  40  60
+6 5  5  3 3N   E 10 H7      -  "430" -1  1  40  60
+2 5  8 12 3N   E 10 HT      -  "430" -1  1  40  60
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "15"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K.AKQ87.Q73.Q852 JT6.J94.T642.JT7 A87543.653.K8.AK Q92.T2.AJ95.9643"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 5  5  3 4H   N 13 H4  "710"      -  5 -5 100   0
+5 5  2  7 3N   S 12 D6  "690"      -  3 -3  80  20
+1 5  1 10 4H   S 12 D2  "680"      - -2  2  30  70
+4 5  4  9 4H   S 12 SJ  "680"      - -2  2  30  70
+2 5  8 12 4S   S 12 SJ  "680"      - -2  2  30  70
+3 5 11  6 4S   S 12 D5  "680"      - -2  2  30  70
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K5.QJ432.KQT8.62 Q87642.T76.72.85 A93.AK8.953.AQT9 JT.95.AJ64.KJ743"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+5 6  4  5 6H   W 10 C8  "200"      -  5 -5 100   0
+4 6  6  7 3N   W 10 S4      -  "630"  2 -2  70  30
+3 6  9  8 3N   E 10 SJ      -  "630"  2 -2  70  30
+1 6  1 12 4H   W 11 H6      -  "650" -3  3  20  80
+6 6  3  2 4H   W 11 S2      -  "650" -3  3  20  80
+2 6 10 11 4H   E 11 SJ      -  "650" -3  3  20  80
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:9632.T2.Q84.KQJT AJ.QJ.J632.98753 KQT84.87.AT97.64 75.AK96543.K5.A2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+2 6 10 11 4SX  S  9 HK      -  "100"  5 -5 100   0
+1 6  1 12 4SX  S  8 HA      -  "300"  3 -3  80  20
+6 6  3  2 4H   W 10 CK      -  "420"  1 -1  60  40
+5 6  4  5 4H   W 11 CK      -  "450" -3  3  20  80
+4 6  6  7 4H   W 11 CK      -  "450" -3  3  20  80
+3 6  9  8 4H   W 11 CJ      -  "450" -3  3  20  80
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "18"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AKJ.65.K8762.T52 T87.Q4.QJ94.AQ86 Q952.AJ83.T5.K97 643.KT972.A3.J43"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+3 6  9  8 2N   E  7 HQ   "50"      -  5 -5 100   0
+4 6  6  7 Pass -  - -     "0"      -  2 -2  70  30
+2 6 10 11 Pass -  - -     "0"      -  2 -2  70  30
+1 6  1 12 1N   E  7 S5      -   "90" -2  2  30  70
+6 6  3  2 1N   E  7 ST      -   "90" -2  2  30  70
+5 6  4  5 2S   S  5 C7      -  "300" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A9765.96.864.AQ9 Q83.AT74.Q.KJ642 J4.QJ3.JT752.T73 KT2.K852.AK93.85"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+5 7  6  3 4H   E  9 H9  "100"      -  5 -5 100   0
+4 7  8  5 1N   N  5 DK      -  "100"  3 -3  80  20
+2 7 12  9 3N   E  9 S5      -  "600"  1 -1  60  40
+6 7  2  4 4H   E 10 SA      -  "620" -2  2  30  70
+3 7  7 10 4H   E 10 S5      -  "620" -2  2  30  70
+1 7  1 11 3N   E 11 S6      -  "660" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K85.9432.AJT.532 AJT9.T7.K985.AQ4 4.AKQ6.Q42.KJ976 Q7632.J85.763.T8"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+4 7  8  5 2S   S  7 H5      -  "100"  5 -5 100   0
+3 7  7 10 3C   E  9 D4      -  "110"  2 -2  70  30
+2 7 12  9 3C   E  9 D6      -  "110"  2 -2  70  30
+6 7  2  4 3H   E 10 CT      -  "170" -2  2  30  70
+5 7  6  3 3H   W 10 D8      -  "170" -2  2  30  70
+1 7  1 11 4H   W 10 D8      -  "620" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ93.64.AQ75.A54 AK2.J8.JT864.JT6 T74.AQT7.K32.Q87 865.K9532.9.K932"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 7  1 11 2N   S  8 H8  "120"      -  4 -4  90  10
+4 7  8  5 2N   N  8 D6  "120"      -  4 -4  90  10
+6 7  2  4 2DX  E  7 C7  "100"      -  1 -1  60  40
+5 7  6  3 Pass -  - -     "0"      - -1  1  40  60
+2 7 12  9 3N   S  8 D9      -  "100" -3  3  20  80
+3 7  7 10 3N   N  7 DJ      -  "200" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A.KQT2.JT92.9864 JT97654.AJ4.KQ4. Q83.9753.A6.A752 K2.86.8753.KQJT3"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+3 8  5 12 3HX  W  8 SK  "200"      -  5 -5 100   0
+1 8  1  9 2S   S  8 H3  "110"      -  3 -3  80  20
+6 8  4  6 2S   S  7 H6      -   "50"  0  0  50  50
+5 8  8  2 4S   S  9 DA      -   "50"  0  0  50  50
+4 8 10  3 4S   S  8 DA      -  "100" -4  4  10  90
+2 8 11  7 4S   S  8 DA      -  "100" -4  4  10  90
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A873.A942.AQ92.A T64.J65.85.K8432 KJ95.T873.JT76.T Q2.KQ.K43.QJ9765"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 8  4  6 4H   N 11 D3  "650"      -  4 -4  90  10
+4 8 10  3 4H   N 11 CQ  "650"      -  4 -4  90  10
+1 8  1  9 4S   N 10 CQ  "620"      - -1  1  40  60
+5 8  8  2 4S   N 10 CQ  "620"      - -1  1  40  60
+2 8 11  7 4H   S 10 C6  "620"      - -1  1  40  60
+3 8  5 12 3N   S  7 C3      -  "200" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "24"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT3.AQ83.AKJ5.5 Q752.T6.Q32.8762 98.J9.T864.AKT94 J64.K7542.97.QJ3"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+5 8  8  2 5D   W 12 S5      -  "420"  5 -5 100   0
+1 8  1  9 3N   E 11 H6      -  "460"  0  0  50  50
+6 8  4  6 3N   W 11 HT      -  "460"  0  0  50  50
+4 8 10  3 3N   W 11 S2      -  "460"  0  0  50  50
+2 8 11  7 3N   E 11 H6      -  "460"  0  0  50  50
+3 8  5 12 6D   W 12 HT      -  "920" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J862.972.K95.A92 AKQ97.A65.A.Q874 543.KQT84.T763.T T.J3.QJ842.KJ653"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+2 9  9  5 6C   E 10 HK  "200"      -  5 -5 100   0
+4 9 12  2 3N   W  8 H7  "100"      -  3 -3  80  20
+3 9  3 11 3N   W  9 C2      -  "600"  0  0  50  50
+6 9  6  8 5C   E 11 HK      -  "600"  0  0  50  50
+1 9  1  7 3N   E 10 HK      -  "630" -3  3  20  80
+5 9 10  4 3N   W 11 H7      -  "660" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:93.AKT.AQ972.532 AQJ76.642.53.A97 T8.Q9875.K4.JT86 K542.J3.JT86.KQ4"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 9  1  7 3S   S  9 D2  "140"      -  1 -1  60  40
+3 9  3 11 3S   S  9 H3  "140"      -  1 -1  60  40
+2 9  9  5 3S   S  9 CJ  "140"      -  1 -1  60  40
+5 9 10  4 3S   S  9 DK  "140"      -  1 -1  60  40
+4 9 12  2 3S   S  9 DK  "140"      -  1 -1  60  40
+6 9  6  8 2H   E 11 D5      -  "200" -5  5   0 100
+
+[Event "Bridgekameratene"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2016.04.21"]
+[Board "27"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ.9842.J94.Q986 Q52.AQ6.AK86.AK2 AT76.KT53.QT732. 9843.J7.5.JT7543"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.04.21"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[AnnotatorNA "per.nordland@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+3 9  3 11 3N   W  7 D2  "100"      -  1 -1  60  40
+6 9  6  8 2N   W  6 D2  "100"      -  1 -1  60  40
+2 9  9  5 2N   W  6 D2  "100"      -  1 -1  60  40
+5 9 10  4 2N   W  6 D4  "100"      -  1 -1  60  40
+4 9 12  2 3N   W  7 H3  "100"      -  1 -1  60  40
+1 9  1  7 1D   W  6 H7   "50"      - -5  5   0 100

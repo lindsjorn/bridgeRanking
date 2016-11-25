@@ -1,0 +1,897 @@
+% PBN 2.0
+% EXPORT
+% 
+% <META  name=Generator                  content="Ruter i Norge">
+% <META  name=Version                    content="4.10">
+% <META  name=Author                     content="www.brenning.se">
+% 
+% <META  name=Licencee                   content="0124 Bridgesenteret BK">
+% <META  name=Arranger                   content="0176 Sinsen BK">
+% <META  name=Signature                  content="0124 Bridgesenteret BK">
+% <META  name=Created                    content="2015-10-20 21:45:37">
+% 
+% <META  name=ContestDate                content="2015-09-24">
+% <META  name=ContestName                content="Sinsen">
+% <META  name=ContestType                content="2">
+% <META  name=ScoringType                content="MatchPoints;MP1">
+% <META  name=Barometer                  content="Y">
+% <META  name=TournamentDirector         content="">
+% 
+% <META  name=TableCount                 content="9">
+% <META  name=PairCount                  content="18">
+% <META  name=PhantomCount               content="0">
+% <META  name=BoardCount                 content="27">
+% <META  name=RoundCount                 content="9">
+% <META  name=BoardCountSession          content="27">
+% <META  name=BoardCountSessionMax       content="6">
+% <META  name=Average                    content="">
+% <META  name=HandicapPercentageAverage  content="">
+% 
+% <META  name=CRCategoryID               content="1">
+% <META  name=Factor                     content="1">
+% <META  name=FactorReason               content="">
+% <META  name=ContestID                  content="999999">
+% <META  name=SerialNumber               content="272">
+% <META  name=PlayerCategoryCount        content="">
+% 
+% <META  name=CRMultiSession             content="">
+% <META  name=CRMultiSessionID           content="">
+% <META  name=CRSession                  content="">
+% <META  name=CRSessionCount             content="">
+% <META  name=CRCutAfterSession          content="">
+% 
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T742.AKQ732.K9.6 AQJ86.J6.52.AQ72 9.T8.A8643.K9843 K53.954.QJT7.JT5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[TotalScoreTable "Rank\2R;PairId\2R;Table\1R;Direction\5R;TotalScoreMP\5R;TotalPercentage\5R;Names\42L;NrBoards\2R;Club\33L;MemberID1\7R;MemberID2\7R;Sex1\3R;Sex2\3R"]
+ 1 11 6 "E-W"  51.3 61.86 "Sissel Grebstad - Rolf Andreas Mørck"     27 "Pass BK - Sinsen BK"             "33860" "18367" "W" "M"
+ 2 17 9 "E-W"  49.8 61.52 "Harry Løkken - Knut Skinnemoen"           27 "Sinsen BK"                        "1198"   "150" "M" "M"
+ 3  1 1 "N-S"  22.6 55.23 "Tommy Sandsmark - Fredd Kristiansen"      27 "Bridgekameratene - TopBridge BC"  "2281" "17936" "M" "M"
+ 4 10 5 "E-W"  22.3 55.15 "Atle Milford - Amund Flo"                 27 "Sinsen BK"                       "23999" "26880" "M" "M"
+ 5  4 2 "E-W"  17.8 54.11 "John Berger - Tim Nørgaard"               27 "Bridgekameratene"                "12035" "29591" "M" "M"
+ 6  8 4 "E-W"  16.6 53.85 "Arnold Mundal - Erik Rynning"             27 "Astra/ABC - Bridgekameratene"     "1180" "14517" "M" "M"
+ 7 15 8 "N-S"  15.6 53.62 "Knut Irion - Inge Lyngedal"               27 "Sinsen BK"                       "23034" "12799" "M" "W"
+ 8 14 7 "N-S"  12.6 52.92 "Jon Eigil Stave - Tor Haugen"             27 "Sinsen BK"                       "22927" "22917" "M" "M"
+ 9 18 9 "N-S"   7.1 51.65 "Jan Roger Nøkleby - Erik Hegbom"          27 "Sinsen BK"                       "23728" "12805" "M" "M"
+10  2 1 "E-W"  -4.1 49.05 "Åge Seiersten - Hans Petter Tolpinrud"    27 "Brandbu BK"                      "27817" "27824" "M" "M"
+11  5 3 "E-W"  -8.8 47.97 "Tor Inge Iversen - Jorunn Øygard"         27 "Bridgekameratene - BK Vest Oslo" "14403" "40507" "M" "M"
+12  7 4 "N-S"  -9.9 47.71 "Jens Kaltenborn - Milan Milovic"          27 "Sinsen BK"                       "27095" "18368" "M" "M"
+13  6 3 "N-S" -11.1 47.42 "Hanna Zdanowicz - Leif-Erik Hoel Stabell" 27 "Akademisk BK"                    "41884" "41785" "W" "M"
+14 16 8 "E-W" -16.3 46.24 "Torfinn Bolme - Ingar Lorentzen"          27 "Sinsen BK"                       "23988" "23998" "M" "M"
+15 12 6 "N-S" -24.6 44.30 "Hans Petter Larsen - Geir Anseth"         27 "Sinsen BK"                       "23997" "23986" "M" "M"
+16 13 7 "E-W" -33.8 42.19 "Karin Løfsgaard Hopp - Olav Hygen"        27 "Sinsen BK"                       "31841" "38697" "W" "M"
+17  3 2 "N-S" -41.3 40.45 "Frédéric Wilt - Håvard Heimset Larsen"    27 "Bridgekameratene"                "23838" "24610" "M" "M"
+18  9 5 "N-S" -62.6 35.50 "Børre Nilsen - Jens Svenningsen"          27 "Sinsen BK"                       "18370" "18373" "M" "M"
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 1  1  2 4SX E  6  "800"       -  8.0 -8.0 100   0
+6 1 12 11 4H  N 10  "420"       -  6.0 -6.0  88  13
+3 1  6  5 3S  E  6  "150"       -  4.0 -4.0  75  25
+2 1  3  4 3SX E  8  "100"       -  0.0  0.0  50  50
+4 1  7  8 3S  E  7  "100"       -  0.0  0.0  50  50
+7 1 14 13 3S  E  7  "100"       -  0.0  0.0  50  50
+5 1  9 10 4H  N  9      -    "50" -6.0  6.0  13  88
+8 1 15 16 4H  N  9      -    "50" -6.0  6.0  13  88
+9 1 18 17 4H  N  9      -    "50" -6.0  6.0  13  88
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ6543.K52.J.742 J82.86.KQT632.K6 K97.AJT.A54.QT93 T.Q9743.987.AJ85"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 1 12 11 4S  E  9   "50"       -  7.0 -7.0  94   6
+7 1 14 13 4S  E  9   "50"       -  7.0 -7.0  94   6
+3 1  6  5 3S  E 10      -   "170"  3.0 -3.0  69  31
+5 1  9 10 2S  E 10      -   "170"  3.0 -3.0  69  31
+1 1  1  2 4S  E 10      -   "420" -4.0  4.0  25  75
+2 1  3  4 4S  E 10      -   "420" -4.0  4.0  25  75
+4 1  7  8 4S  W 10      -   "420" -4.0  4.0  25  75
+8 1 15 16 4S  E 10      -   "420" -4.0  4.0  25  75
+9 1 18 17 4S  E 10      -   "420" -4.0  4.0  25  75
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q8.AJ43.AJ9.AQ73 AJ532.982.86.942 KT4.K5.KQ732.T65 976.QT76.T54.KJ8"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 1  1  2 3N  N 12  "490"       -  3.0 -3.0  69  31
+2 1  3  4 4N  S 12  "490"       -  3.0 -3.0  69  31
+4 1  7  8 3N  N 12  "490"       -  3.0 -3.0  69  31
+6 1 12 11 3N  S 12  "490"       -  3.0 -3.0  69  31
+7 1 14 13 3N  N 12  "490"       -  3.0 -3.0  69  31
+8 1 15 16 3N  N 12  "490"       -  3.0 -3.0  69  31
+3 1  6  5 3N  N 11  "460"       - -5.0  5.0  19  81
+9 1 18 17 3N  S 11  "460"       - -5.0  5.0  19  81
+5 1  9 10 3N  S  9  "400"       - -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9653.A632.K732.2 T7.KQ.T4.AJT8754 AQJ42.JT95.Q95.3 K8.874.AJ86.KQ96"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+9 2 17 15 3N  S 11  "660"       -  8.0 -8.0 100   0
+2 2  2  6 5C  N 11  "600"       -  5.0 -5.0  81  19
+5 2  7 12 3N  S  9  "600"       -  5.0 -5.0  81  19
+3 2  8  3 3C  N 10  "130"       -  1.0 -1.0  56  44
+6 2 14  9 3C  N 10  "130"       -  1.0 -1.0  56  44
+8 2 13 18 3S  E  8  "100"       - -2.0  2.0  38  63
+1 2  1  4 5C  N 10      -   "100" -6.0  6.0  13  88
+4 2  5 10 5C  N 10      -   "100" -6.0  6.0  13  88
+7 2 16 11 5C  N 10      -   "100" -6.0  6.0  13  88
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J.K63.AJT4.QT953 Q542.J954.83.864 AKT9863..65.AKJ7 7.AQT872.KQ972.2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+2 2  2  6 4SX S 12 "1190"       -  7.0 -7.0  94   6
+3 2  8  3 4SX S 12 "1190"       -  7.0 -7.0  94   6
+7 2 16 11 6HX W  8  "800"       -  4.0 -4.0  75  25
+6 2 14  9 4S  S 12  "680"       -  1.0 -1.0  56  44
+9 2 17 15 4S  S 12  "680"       -  1.0 -1.0  56  44
+8 2 13 18 3S  S 12  "230"       - -2.0  2.0  38  63
+4 2  5 10 5C  S 10      -   "100" -5.0  5.0  19  81
+5 2  7 12 6S  N 11      -   "100" -5.0  5.0  19  81
+1 2  1  4 6C  N  8      -   "400" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJ3.AQ4.A5.98654 AKT62.532.Q62.T2 985.T87.KT9.AKJ3 74.KJ96.J8743.Q7"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 2  7 12 3N  W  8  "100"       -  7.0 -7.0  94   6
+3 2  8  3 3N  E  8  "100"       -  7.0 -7.0  94   6
+1 2  1  4 2D  S  7      -    "50"  4.0 -4.0  75  25
+7 2 16 11 2C  W  9      -   "110"  2.0 -2.0  63  38
+2 2  2  6 1N  W  9      -   "150" -2.0  2.0  38  63
+4 2  5 10 1N  W  9      -   "150" -2.0  2.0  38  63
+9 2 17 15 1N  W  9      -   "150" -2.0  2.0  38  63
+8 2 13 18 1N  W 10      -   "180" -6.0  6.0  13  88
+6 2 14  9 3N  E  9      -   "600" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J3.532.QT76.K974 AQ72.KQJ.543.A62 T9864.A6.K2.QT83 K5.T9874.AJ98.J5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 3  1 16 4H  W  9  "100"       -  5.0 -5.0  81  19
+4 3  4  6 4H  W  9  "100"       -  5.0 -5.0  81  19
+5 3  8  5 3N  W  8  "100"       -  5.0 -5.0  81  19
+2 3 14 10 4H  W  9  "100"       -  5.0 -5.0  81  19
+1 3 12 17 2N  W  9      -   "150"  0.0  0.0  50  50
+7 3  2 15 3N  W  9      -   "600" -2.0  2.0  38  63
+6 3  7  3 4H  W 10      -   "620" -4.0  4.0  25  75
+8 3  9 13 4H  W 11      -   "650" -6.0  6.0  13  88
+9 3 18 11 4SX N  6      -  "1100" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AT42.8.AKQ9864.K K85.KQ743.T2.Q98 QJ3.T96.7.765432 976.AJ52.J53.AJT"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 3  7  3 5DX W 10  "100"       -  8.0 -8.0 100   0
+3 3  1 16 3H  N  8      -    "50"  6.0 -6.0  88  13
+7 3  2 15 4H  N  8      -   "100"  3.0 -3.0  69  31
+8 3  9 13 4H  N  8      -   "100"  3.0 -3.0  69  31
+5 3  8  5 4D  W 10      -   "130" -2.0  2.0  38  63
+1 3 12 17 2D  E 10      -   "130" -2.0  2.0  38  63
+2 3 14 10 4D  W 10      -   "130" -2.0  2.0  38  63
+4 3  4  6 4S  W 10      -   "420" -7.0  7.0   6  94
+9 3 18 11 4S  W 10      -   "420" -7.0  7.0   6  94
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:872.Q5.KJ2.AKT42 AKQT.T2.AQ754.97 65.AK876.T6.QJ86 J943.J943.983.53"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 3  1 16 2H  S  9  "140"       -  8.0 -8.0 100   0
+4 3  4  6 3C  S 10  "130"       -  4.0 -4.0  75  25
+6 3  7  3 4C  N 10  "130"       -  4.0 -4.0  75  25
+1 3 12 17 2C  N 10  "130"       -  4.0 -4.0  75  25
+8 3  9 13 3N  N  8      -    "50" -1.0  1.0  44  56
+2 3 14 10 1N  N  6      -    "50" -1.0  1.0  44  56
+7 3  2 15 3N  N  7      -   "100" -4.0  4.0  25  75
+5 3  8  5 4HX S  8      -   "300" -6.0  6.0  13  88
+9 3 18 11 3DX E  9      -   "670" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AQ93.J32.T9842.6 KJ2.AKQ5.76.AJ32 T4.T9764.AQ3.T54 8765.8.KJ5.KQ987"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+2 4  8  4 3N  S 12  "690"       -  8.0 -8.0 100   0
+6 4  1 18 3N  S 11  "660"       -  3.0 -3.0  69  31
+8 4  5  3 3N  S 11  "660"       -  3.0 -3.0  69  31
+1 4 10 17 3N  S 11  "660"       -  3.0 -3.0  69  31
+9 4 11 13 3N  S 11  "660"       -  3.0 -3.0  69  31
+5 4  2  9 3N  N 10  "630"       - -3.0  3.0  31  69
+4 4  7 14 3N  S 10  "630"       - -3.0  3.0  31  69
+7 4  6 15 5C  S 11  "600"       - -6.0  6.0  13  88
+3 4 12 16 4S  N  9      -   "100" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K2.J852.T763.AT3 AQ76.AQ7.KQ8.K86 JT54.KT63.9.Q542 983.94.AJ542.J97"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 4 12 16 3N  W  8   "50"       -  8.0 -8.0 100   0
+9 4 11 13 2N  W  8      -   "120"  6.0 -6.0  88  13
+6 4  1 18 3N  W  9      -   "400"  1.0 -1.0  56  44
+5 4  2  9 3N  W  9      -   "400"  1.0 -1.0  56  44
+8 4  5  3 3N  W  9      -   "400"  1.0 -1.0  56  44
+4 4  7 14 3N  W  9      -   "400"  1.0 -1.0  56  44
+7 4  6 15 3N  W 10      -   "430" -6.0  6.0  13  88
+2 4  8  4 3N  W 10      -   "430" -6.0  6.0  13  88
+1 4 10 17 3N  W 10      -   "430" -6.0  6.0  13  88
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K8763.QT.QJ86.T5 AJ54.AJ.T943.K84 QT92.K9542..9763 .8763.AK752.AQJ2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+8 4  5  3 5D  N 11  "600"       -  8.0 -8.0 100   0
+9 4 11 13 3D  N 11  "150"       -  6.0 -6.0  88  13
+5 4  2  9 3D  N 10  "130"       -  4.0 -4.0  75  25
+3 4 12 16 3C  S  9  "110"       -  2.0 -2.0  63  38
+6 4  1 18 6D  N 11      -   "100" -1.0  1.0  44  56
+7 4  6 15 3N  N  8      -   "100" -1.0  1.0  44  56
+4 4  7 14 6D  N 10      -   "200" -6.0  6.0  13  88
+2 4  8  4 6D  S 10      -   "200" -6.0  6.0  13  88
+1 4 10 17 5DX N 10      -   "200" -6.0  6.0  13  88
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:JT.7.A9.AQT97654 Q975.QT95432.4.8 642.8.KQT7632.K2 AK83.AKJ6.J85.J3"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 5  4 12 6CX N 13 "1740"       -  8.0 -8.0 100   0
+5 5 14  2 4CX N 13 "1310"       -  6.0 -6.0  88  13
+1 5 10  1 5CX N 13 "1150"       -  3.0 -3.0  69  31
+8 5 13 16 5CX N 13 "1150"       -  3.0 -3.0  69  31
+6 5  6  9 5C  N 13  "640"       -  0.0  0.0  50  50
+4 5 11  8 5C  N 10      -   "100" -2.0  2.0  38  63
+9 5  3 18 6CX N 10      -   "500" -4.0  4.0  25  75
+2 5  7 17 5H  E 11      -   "650" -6.0  6.0  13  88
+7 5 15  5 5HX E 11      -   "850" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A54.Q9.J7652.T63 K932.J7653.K.AK2 T86.A2.T984.Q987 QJ7.KT84.AQ3.J54"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 5  6  9 4H  S 11  "450"       -  8.0 -8.0 100   0
+9 5  3 18 4H  S 10  "420"       -  0.0  0.0  50  50
+3 5  4 12 4H  S 10  "420"       -  0.0  0.0  50  50
+2 5  7 17 4H  S 10  "420"       -  0.0  0.0  50  50
+1 5 10  1 4H  S 10  "420"       -  0.0  0.0  50  50
+4 5 11  8 4H  S 10  "420"       -  0.0  0.0  50  50
+8 5 13 16 4H  S 10  "420"       -  0.0  0.0  50  50
+7 5 15  5 4H  S 10  "420"       -  0.0  0.0  50  50
+5 5 14  2 3H  S 10  "170"       - -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "15"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KJ863.J32..J8654 A5.8754.AQJ86.KT QT74.AT6.73.A973 92.KQ9.KT9542.Q2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 5  4 12 4H  E  8  "100"       -  6.0 -6.0  88  13
+4 5 11  8 3N  W  7  "100"       -  6.0 -6.0  88  13
+5 5 14  2 3N  E  7  "100"       -  6.0 -6.0  88  13
+1 5 10  1 5D  W 10   "50"       -  1.0 -1.0  56  44
+7 5 15  5 5D  W 10   "50"       -  1.0 -1.0  56  44
+8 5 13 16 1N  E  7      -    "90" -2.0  2.0  38  63
+6 5  6  9 2D  W 10      -   "130" -4.0  4.0  25  75
+9 5  3 18 3D  W 11      -   "150" -7.0  7.0   6  94
+2 5  7 17 4D  W 11      -   "150" -7.0  7.0   6  94
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT2.AJT74.K73.Q3 8.KQ9632.QT64.92 QJ953.85.A82.AJT A764..J95.K87654"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 6  4 10 4S  E  9  "100"       -  7.0 -7.0  94   6
+6 6 15  9 4S  E  9  "100"       -  7.0 -7.0  94   6
+2 6  1 14 3N  W  9      -   "600"  1.0 -1.0  56  44
+8 6  6 18 3N  W  9      -   "600"  1.0 -1.0  56  44
+5 6  7  2 3N  W  9      -   "600"  1.0 -1.0  56  44
+9 6 13  3 3N  W  9      -   "600"  1.0 -1.0  56  44
+4 6 12  8 4S  E 10      -   "620" -5.0  5.0  19  81
+1 6 17 11 4S  E 10      -   "620" -5.0  5.0  19  81
+7 6  5 16 3N  E 10      -   "630" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:754.Q52.AT73.987 KJT632.A74.KJ5.6 AQ98.T3.86.KQT43 .KJ986.Q942.AJ52"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 6  7  2 4H  W  8  "100"       -  8.0 -8.0 100   0
+6 6 15  9 4H  W  9   "50"       -  5.0 -5.0  81  19
+1 6 17 11 4H  W  9   "50"       -  5.0 -5.0  81  19
+3 6  4 10 3H  E  9      -   "140"  1.0 -1.0  56  44
+4 6 12  8 2S  E  9      -   "140"  1.0 -1.0  56  44
+2 6  1 14 3C  S  6      -   "150" -2.0  2.0  38  63
+8 6  6 18 4H  W 10      -   "420" -4.0  4.0  25  75
+7 6  5 16 4H  W 11      -   "450" -7.0  7.0   6  94
+9 6 13  3 4H  W 11      -   "450" -7.0  7.0   6  94
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "18"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q6.3.AKJ52.AT982 J5432.KJT965..Q3 97.72.QT987.7654 AKT8.AQ84.643.KJ"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+8 6  6 18 7DX W  9  "800"       -  7.9 -7.9  99   1
+6 6 15  9 5S  N 13  "710"       -  5.6 -5.6  85  15
+7 6  5 16 5H  S 12  "680"       -  2.3 -2.3  64  36
+9 6 13  3 4H  S 12  "680"       -  2.3 -2.3  64  36
+3 6  4 10 6DX E  9  "500"       - -2.3  2.3  36  64
+1 6 17 11 6DX E  9  "500"       - -2.3  2.3  36  64
+4 6 12  8 5DX E  9  "300"       - -5.6  5.6  15  85
+5 6  7  2 1H  S 12  "230"       - -7.9  7.9   1  99
+2 6  1 14 6DX N  9      - "800>a"  1.6  1.6  60  60
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J73.Q97.J64.AQJ5 84.8632.K83.8732 K65.AJT.AQ972.K6 AQT92.K54.T5.T94"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 7 10  8 3N  N 12  "490"       -  7.0 -7.0  94   6
+1 7 17  4 3N  N 12  "490"       -  7.0 -7.0  94   6
+4 7  5  1 3N  N 11  "460"       -  1.0 -1.0  56  44
+6 7  7 15 3N  N 11  "460"       -  1.0 -1.0  56  44
+5 7 12  2 3N  N 11  "460"       -  1.0 -1.0  56  44
+9 7 18 16 3N  N 11  "460"       -  1.0 -1.0  56  44
+7 7  9  3 2N  N 10  "180"       - -4.0  4.0  25  75
+8 7 13  6 3N  N  8      -    "50" -7.0  7.0   6  94
+2 7 14 11 3N  N  8      -    "50" -7.0  7.0   6  94
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KJ2.AT73.AJ97.82 A93.J982.T543.74 QT74.5.KQ862.KQJ 865.KQ64..AT9653"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+4 7  5  1 3N  W  8  "100"       -  4.0 -4.0  75  25
+3 7 10  8 3N  W  8  "100"       -  4.0 -4.0  75  25
+8 7 13  6 3N  W  8  "100"       -  4.0 -4.0  75  25
+1 7 17  4 3N  E  8  "100"       -  4.0 -4.0  75  25
+9 7 18 16 3N  W  8  "100"       -  4.0 -4.0  75  25
+6 7  7 15 3N  E 10      -   "630" -2.0  2.0  38  63
+7 7  9  3 4S  E 11      -   "650" -6.0  6.0  13  88
+5 7 12  2 4S  E 11      -   "650" -6.0  6.0  13  88
+2 7 14 11 4S  E 11      -   "650" -6.0  6.0  13  88
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:96.AK874.KT.AK93 AKQT8532.T65.J.J J74.J9.AQ983.864 .Q32.76542.QT752"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 7 17  4 5D  S 12  "620"       -  8.0 -8.0 100   0
+9 7 18 16 5SX E  8  "500"       -  6.0 -6.0  88  13
+7 7  9  3 4SX E  8  "300"       -  4.0 -4.0  75  25
+5 7 12  2 2N  S  8  "120"       -  2.0 -2.0  63  38
+3 7 10  8 4S  E  8  "100"       - -1.0  1.0  44  56
+8 7 13  6 4S  E  8  "100"       - -1.0  1.0  44  56
+4 7  5  1 4H  N  9      -   "100" -4.0  4.0  25  75
+6 7  7 15 1N  N  5      -   "200" -6.0  6.0  13  88
+2 7 14 11 5CX N  8      -   "800" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J962.J3.Q54.AQ52 AQ83.8765.K62.K9 7.AKQ2.AJT3.JT87 KT54.T94.987.643"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+8 8 18  9 3H  W  8  "100"       -  8.0 -8.0 100   0
+5 8  1  7 2S  N  6      -   "100"  6.0 -6.0  88  13
+4 8 10 16 1N  W  8      -   "120"  4.0 -4.0  75  25
+2 8  4 11 1N  W  9      -   "150"  1.0 -1.0  56  44
+1 8 17 14 1D  S  4      -   "150"  1.0 -1.0  56  44
+3 8  8 15 3S  N  5      -   "200" -2.0  2.0  38  63
+7 8 12 13 2SX N  5      -   "500" -4.0  4.0  25  75
+6 8  2  5 4S  E 10      -   "620" -6.0  6.0  13  88
+9 8  6  3 3N  E 10      -   "630" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT3.T92.KT9.KQT2 96.QJ4.A32.J9764 Q872.75.QJ654.A5 AK54.AK863.87.83"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+9 8  6  3 1N  W  8      -   "120"  8.0 -8.0 100   0
+2 8  4 11 3H  E  9      -   "140"  2.0 -2.0  63  38
+3 8  8 15 3H  E  9      -   "140"  2.0 -2.0  63  38
+7 8 12 13 2H  E  9      -   "140"  2.0 -2.0  63  38
+1 8 17 14 2H  E  9      -   "140"  2.0 -2.0  63  38
+8 8 18  9 3H  E  9      -   "140"  2.0 -2.0  63  38
+5 8  1  7 2H  E 10      -   "170" -5.0  5.0  19  81
+4 8 10 16 2H  E 10      -   "170" -5.0  5.0  19  81
+6 8  2  5 2H  E 11      -   "200" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "24"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:JT84.KJ4.K93.654 KQ2.Q96.62.T9832 7.852.QJT74.AKJ7 A9653.AT73.A85.Q"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 8  2  5 2H  S  8  "110"       -  6.0 -6.0  88  13
+3 8  8 15 2S  S  8  "110"       -  6.0 -6.0  88  13
+4 8 10 16 2S  S  8  "110"       -  6.0 -6.0  88  13
+9 8  6  3 3D  E  8   "50"       -  2.0 -2.0  63  38
+5 8  1  7 3S  S  8      -    "50" -1.0  1.0  44  56
+2 8  4 11 3S  S  8      -    "50" -1.0  1.0  44  56
+1 8 17 14 2D  E  9      -   "110" -4.0  4.0  25  75
+7 8 12 13 2N  W  9      -   "150" -6.0  6.0  13  88
+8 8  9 18 2SX S  6      -   "300" -8.0  8.0   0 100
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T62.T73.T654.Q63 Q53.982.A982.AJ5 KJ4.AQ6.KQJ.KT42 A987.KJ54.73.987"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 9  7  6 1N  S  8  "120"       -  7.0 -7.0  94   6
+8 9 18 12 1N  S  8  "120"       -  7.0 -7.0  94   6
+4 9  9  8 1N  W  6  "100"       -  4.0 -4.0  75  25
+5 9 14  5 1C  S  8   "90"       -  1.0 -1.0  56  44
+3 9 15  4 1N  S  7   "90"       -  1.0 -1.0  56  44
+2 9 10 11 1C  S  7   "70"       - -2.0  2.0  38  63
+1 9 17  1 2N  S  7      -    "50" -4.0  4.0  25  75
+9 9 13  2 1N  E  7      -    "90" -7.0  7.0   6  94
+7 9 16  3 1N  E  7      -    "90" -7.0  7.0   6  94
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T73.AK5.A875.A72 95.QJ762.QJ6.KJ9 KQ62.843.K93.Q64 AJ84.T9.T42.T853"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 9  7  6 3N  E  7  "200"       -  3.0 -3.0  69  31
+9 9 13  2 3N  E  7  "200"       -  3.0 -3.0  69  31
+5 9 14  5 3N  E  7  "200"       -  3.0 -3.0  69  31
+3 9 15  4 3N  E  7  "200"       -  3.0 -3.0  69  31
+7 9 16  3 3N  E  7  "200"       -  3.0 -3.0  69  31
+1 9 17  1 3N  E  7  "200"       -  3.0 -3.0  69  31
+4 9  9  8 3N  E  8  "100"       - -6.0  6.0  13  88
+2 9 10 11 2N  E  7  "100"       - -6.0  6.0  13  88
+8 9 18 12 3N  E  8  "100"       - -6.0  6.0  13  88
+
+[Event "Sinsen"]
+[Site "0100 NBF Oslo, Oslo, Norge"]
+[Date "2015.09.24"]
+[Board "27"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK975.KQ2.K5.982 862.JT987654.2.Q QJ43.A3.AQJ6.KJ4 T..T98743.AT7653"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2015.09.24"]
+[Annotator "0124 Bridgesenteret BK"]
+[AnnotatorNA "bridgekameratene@gmail.com"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Score_NS\6R;Score_EW\7R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 9 14  5 7CX E  6 "1700"       -  8.0 -8.0 100   0
+7 9 16  3 6SX N 12 "1210"       -  6.0 -6.0  88  13
+2 9 10 11 5HX W  6 "1100"       -  4.0 -4.0  75  25
+8 9 18 12 6N  S 12  "990"       -  2.0 -2.0  63  38
+9 9 13  2 6S  S 12  "980"       -  0.0  0.0  50  50
+3 9 15  4 4S  S 12  "480"       - -2.0  2.0  38  63
+4 9  9  8 6SX S 11      -   "100" -4.0  4.0  25  75
+6 9  7  6 6SX S 10      -   "300" -7.0  7.0   6  94
+1 9 17  1 6SX S 10      -   "300" -7.0  7.0   6  94
