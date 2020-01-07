@@ -1,0 +1,809 @@
+% PBN 2.0
+% EXPORT
+% 
+% <META  name=Generator                  content="Ruter i Norge">
+% <META  name=Version                    content="4.13">
+% <META  name=Author                     content="www.brenning.se">
+% 
+% <META  name=Licencee                   content="0100 NBF Oslo">
+% <META  name=Arranger                   content="0179 Spiren BK">
+% <META  name=Signature                  content="0100 NBF Oslo">
+% <META  name=Created                    content="2019-03-11 21:34:48">
+% 
+% <META  name=ContestDate                content="2019-03-11">
+% <META  name=ContestName                content="110319 M">
+% <META  name=ContestType                content="2">
+% <META  name=ScoringType                content="MatchPoints;MP1">
+% <META  name=Barometer                  content="Y">
+% <META  name=TournamentDirector         content="">
+% 
+% <META  name=TableCount                 content="10">
+% <META  name=PairCount                  content="19">
+% <META  name=PhantomCount               content="1">
+% <META  name=BoardCount                 content="24">
+% <META  name=RoundCount                 content="8">
+% <META  name=BoardCountSession          content="24">
+% <META  name=BoardCountSessionMax       content="">
+% <META  name=Average                    content="">
+% <META  name=HandicapPercentageAverage  content="">
+% 
+% <META  name=Strata                     content="">
+% <META  name=StrataHcpLevel             content="">
+% 
+% <META  name=CRCategoryID               content="1">
+% <META  name=Factor                     content="1">
+% <META  name=FactorReason               content="">
+% <META  name=ContestID                  content="">
+% <META  name=SerialNumber               content="769">
+% <META  name=PlayerCategoryCount        content="">
+% 
+% <META  name=CRMultiSession             content="">
+% <META  name=CRMultiSessionID           content="">
+% <META  name=CRSession                  content="">
+% <META  name=CRSessionCount             content="">
+% <META  name=CRCutAfterSession          content="">
+% <META  name=CRReportMPAfter            content="">
+% 
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:97.A52.AK64.AJT4 T.KJT943.QJ752.Q K86542.Q6.8.K987 AQJ3.87.T93.6532"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[TotalScoreTable "Rank\2R;PairId\2R;Table\2R;Direction\5R;TotalScoreMP\5R;TotalPercentage\5R;Names\45L;NrBoards\2R;Club\34L;MemberID1\7R;MemberID2\7R;Sex1\3R;Sex2\3R"]
+ 1 18  9 "E-W"  69.0 67.97 "Trond Odin Rønbeck - Ylva Helen Kvikstad"    24 "Spiren BK - Vadsø BK"             "27336" "41864" "M" "W"
+ 2 17  9 "N-S"  36.6 59.52 "Arnold Digre - Tim Nørgaard"                 24 "Sporveiens BK - Bridgekameratene"  "5683" "29591" "M" "M"
+ 3  7  4 "N-S"  25.0 56.51 "Halvor Dahl - Ragnar Askheim"                24 "Spiren BK"                        "42387" "40352" "M" "M"
+ 4 15  8 "N-S"  20.6 55.36 "Åge Seiersten - Bjørg Westerheim"            24 "Brandbu BK - Hjerter Konge"       "27817"  "9554" "M" "W"
+ 5  3  2 "N-S"  20.0 55.21 "Eva Aartun - Gerd Skaarud"                   24 "Bridgesenteret BK"                "44348" "44349" "W" "W"
+ 6 10  5 "E-W"  11.0 52.86 "Ola Bjørnsen - Oddvar Ljønes"                24 "Hjerter Konge"                    "31619" "36412" "M" "M"
+ 7 11  6 "N-S"   8.0 52.08 "Bjørg Opedal - Ingeborg Molstad"             24 "Hjerter Konge"                    "36417" "36529" "W" "W"
+ 8 20 10 "E-W"   7.0 51.82 "Frank Isaksen - Sissel Sofie Stavik"         24 "Hjerter Konge"                    "31734" "38332" "M" "W"
+ 9  2  1 "E-W"   6.0 51.56 "Lars Erik Bergerud - Dag Viljen Poleszynski" 24 "Bridgekameratene"                 "32823" "38594" "M" "M"
+10 19 10 "N-S"   3.0 50.78 "Kari Hovden - Ragnar Waldahl"                24 "Spiren BK - Hjerter Konge"        "42164"   "640" "W" "M"
+11 13  7 "N-S"  -7.0 48.18 "Vibeke Torgersen - Elisabet Hoel"            24 "Hjerter Konge - Spiren BK"        "38315" "38320" "W" "W"
+12  1  1 "N-S"  -9.1 47.62 "May Britt Magelsen - Ann Kvistad"            24 "Spiren BK"                        "42165" "42167" "W" "W"
+13 12  6 "E-W" -11.4 47.02 "Kirsti Kvalheim - Liv Melander"              24 "Hjerter Konge"                    "25931" "36403" "W" "W"
+14 14  7 "E-W" -14.0 46.35 "Petter Jespersen - Knut Aga"                 24 "Spiren BK"                        "44427" "25961" "W" "M"
+15  6  3 "E-W" -21.7 44.35 "Tommy Pedersen - Oddbjørg Renshus"           24 "Spiren BK"                        "42399" "30559" "M" "W"
+16  5  3 "N-S" -22.0 44.27 "Marianne Schmidt - Tone Tenfjord"            24 "Bridgesenteret BK"                "44394" "44393" "W" "W"
+17  4  2 "E-W" -28.6 42.56 "Inger Midthun - Arnfinn Schalm"              24 "Hjerter Konge - Spiren BK"        "31427" "36261" "W" "M"
+18  8  4 "E-W" -34.3 41.07 "Kirsten Johanne Andersen - Anne Steen"       24 "Spiren BK"                        "36222" "36223" "W" "W"
+19  9  5 "N-S" -73.1 30.95 "Finn E Gjersum - Vidar Hjellvik"             24 "Spiren BK"                        "38238" "42171" "M" "M"
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 6 1 11 12 4S  N 10 HJ   "420"      -  7.0 -7.0  94   6
+ 9 1 17 18 4S  N 10 DQ   "420"      -  7.0 -7.0  94   6
+ 4 1  7  8 3N  N  9 HJ   "400"      -  4.0 -4.0  75  25
+10 1 19 20 4HX E  8 D6   "300"      -  2.0 -2.0  63  38
+ 3 1  5  6 3H  E  7 D8   "100"      -  0.0  0.0  50  50
+ 1 1  1  2 2N  N  7 D2       -   "50" -3.0  3.0  31  69
+ 7 1 13 14 4S  N  9 H9       -   "50" -3.0  3.0  31  69
+ 2 1  3  4 4S  N  8 DQ       -  "100" -7.0  7.0   6  94
+ 5 1  9 10 3N  N  7 HJ       -  "100" -7.0  7.0   6  94
+ 8 1 15  - -   -  - -    "Bye"  "Bye"  0.9    -  55   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KT87.AKJ73.98.K8 QJ3.T9.K63.QJ632 A4.Q8542.J5.T754 9652.6.AQT742.A9"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 1 1  1  2 2H  E 11 SQ       -  "200"  6.0 -6.0  88  13
+ 2 1  3  4 2H  E 11 CQ       -  "200"  6.0 -6.0  88  13
+ 3 1  5  6 2H  E 11 SJ       -  "200"  6.0 -6.0  88  13
+ 4 1  7  8 4H  E 10 D3       -  "420" -1.0  1.0  44  56
+ 6 1 11 12 4H  E 10 CQ       -  "420" -1.0  1.0  44  56
+ 7 1 13 14 4H  E 10 D3       -  "420" -1.0  1.0  44  56
+ 9 1 17 18 4H  W 10 H3       -  "420" -1.0  1.0  44  56
+ 5 1  9 10 4H  E 11 SQ       -  "450" -7.0  7.0   6  94
+10 1 19 20 4H  E 11 HT       -  "450" -7.0  7.0   6  94
+ 8 1 15  - -   -  - -    "Bye"  "Bye"  0.9    -  55   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T65.93.AT94.JT92 982.A762.KJ3.Q63 Q743.K.Q65.AK754 AKJ.QJT854.872.8"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 2 1  3  4 3H  E  8 DA   "100"      -  7.0 -7.0  94   6
+ 7 1 13 14 4H  E  9 DJ   "100"      -  7.0 -7.0  94   6
+ 1 1  1  2 3H  E  9 C2       -  "140"  0.0  0.0  50  50
+ 3 1  5  6 3H  E  9 C9       -  "140"  0.0  0.0  50  50
+ 4 1  7  8 2H  E  9 CJ       -  "140"  0.0  0.0  50  50
+ 6 1 11 12 3H  E  9 CJ       -  "140"  0.0  0.0  50  50
+ 9 1 17 18 3H  E  9 CJ       -  "140"  0.0  0.0  50  50
+10 1 19 20 3H  E 10 CJ       -  "170" -6.0  6.0  13  88
+ 5 1  9 10 4H  E 10 CJ       -  "620" -8.0  8.0   0 100
+ 8 1 15  - -   -  - -    "Bye"  "Bye"  0.9    -  55   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AT4.AK974.AK3.A3 J85.Q852.2.KT654 9632.T6.J98654.2 KQ7.J3.QT7.QJ987"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 1 2  1 20 3N  W  6 C4   "300"      -  8.0 -8.0 100   0
+ 4 2  7  6 5D  E  9 SK   "200"      -  5.0 -5.0  81  19
+10 2 19 18 4H  W  8 D3   "200"      -  5.0 -5.0  81  19
+ 2 2  3  2 4H  W  9 D2   "100"      -  2.0 -2.0  63  38
+ 3 2  5  4 2H  W  8 D2       -  "110" -1.0  1.0  44  56
+ 6 2 11 10 2H  W  8 D2       -  "110" -1.0  1.0  44  56
+ 5 2  9  8 2H  W  9 D2       -  "140" -5.0  5.0  19  81
+ 8 2 15 14 3H  W  9 D2       -  "140" -5.0  5.0  19  81
+ 7 2 13 12 1H  W 10 D2       -  "170" -8.0  8.0   0 100
+ 9 2 17  - -   -  - -    "Bye"  "Bye"  1.5    -  60   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJT86.AKQJ2..J92 93.63.T942.T8643 AK74.987.AQ86.75 52.T54.KJ753.AKQ"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 2 2  3  2 6SX N 13 -   "1860"      -  8.0 -8.0 100   0
+ 7 2 13 12 6S  N 13 DT  "1460"      -  6.0 -6.0  88  13
+ 3 2  5  4 4SX N 13 DT  "1390"      -  4.0 -4.0  75  25
+ 4 2  7  6 4S  N 13 D4   "710"      -  1.0 -1.0  56  44
+10 2 19 18 4S  N 13 DT   "710"      -  1.0 -1.0  56  44
+ 6 2 11 10 4S  N 12 DT   "680"      - -2.0  2.0  38  63
+ 1 2  1 20 4S  S 11 CA   "650"      - -6.0  6.0  13  88
+ 5 2  9  8 4S  N 11 C8   "650"      - -6.0  6.0  13  88
+ 8 2 15 14 4S  N 11 C2   "650"      - -6.0  6.0  13  88
+ 9 2 17  - -   -  - -    "Bye"  "Bye"  1.5    -  60   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:74.A74.72.JT8752 AJ8.Q986.Q5.KQ93 QT932.T532.KJT3. K65.KJ.A9864.A64"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 4 2  7  6 3N  N 11 C2   "460"      -  7.0 -7.0  94   6
+ 7 2 13 12 3N  N 11 CJ   "460"      -  7.0 -7.0  94   6
+ 5 2  9  8 3N  S 10 ST   "430"      -  3.0 -3.0  69  31
+ 8 2 15 14 3N  N 10 C7   "430"      -  3.0 -3.0  69  31
+ 3 2  5  4 3N  S  9 ST   "400"      - -1.0  1.0  44  56
+ 6 2 11 10 3N  S  9 H2   "400"      - -1.0  1.0  44  56
+ 2 2  3  2 3N  S  8 H3       -   "50" -5.0  5.0  19  81
+10 2 19 18 3N  N  8 CJ       -   "50" -5.0  5.0  19  81
+ 1 2  1 20 3N  N  6 SJ       -  "150" -8.0  8.0   0 100
+ 9 2 17  - -   -  - -    "Bye"  "Bye"  1.5    -  60   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:52.KJ984.AKQ9.94 AK87.62.32.AJT65 QJT64.Q7.T4.KQ32 93.AT53.J8765.87"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 5 3  7 13 3CX W  6 HQ   "800"      -  8.0 -8.0 100   0
+ 2 3  5  3 3N  N  9 C8   "600"      -  6.0 -6.0  88  13
+ 8 3 19  6 2N  E  3 DA   "500"      -  4.0 -4.0  75  25
+ 1 3 10 20 2N  N  9 D5   "150"      -  1.0 -1.0  56  44
+ 3 3 11 17 2N  N  9 D8   "150"      -  1.0 -1.0  56  44
+ 9 3 18 12 2H  S  8 H6   "110"      - -2.0  2.0  38  63
+ 4 3  1 15 2N  N  6 D5       -  "200" -6.0  6.0  13  88
+ 6 3  8  2 4H  N  8 D3       -  "200" -6.0  6.0  13  88
+ 7 3 14  4 3N  N  7 C8       -  "200" -6.0  6.0  13  88
+10 3  -  9 -   -  - -    "Bye"  "Bye"    - -3.0   -  31
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J9632.986.Q96.KQ K5.Q4.KT754.T432 AQ874.AJT2.2.J98 T.K753.AJ83.A765"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 9 3 18 12 4S  E  9 CA    "50"      -  8.0 -8.0 100   0
+ 4 3  1 15 2S  E  9 H3       -  "140"  2.0 -2.0  63  38
+ 5 3  7 13 3S  E  9 DA       -  "140"  2.0 -2.0  63  38
+ 6 3  8  2 3S  E  9 H3       -  "140"  2.0 -2.0  63  38
+ 7 3 14  4 2S  E  9 D4       -  "140"  2.0 -2.0  63  38
+ 8 3 19  6 3S  E  9 DA       -  "140"  2.0 -2.0  63  38
+ 1 3 10 20 3S  E 10 C2       -  "170" -4.0  4.0  25  75
+ 2 3  5  3 2S  E 11 H2       -  "200" -6.0  6.0  13  88
+ 3 3 11 17 4S  E 10 D8       -  "420" -8.0  8.0   0 100
+10 3  -  9 -   -  - -    "Bye"  "Bye"    - -3.0   -  31
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A9.7543.862.KT97 KQ86543.JT.J94.5 J7.9862.AK73.864 T2.AKQ.QT5.AQJ32"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 9 3 18 12 4S  E  9 DA   "100"      -  8.0 -8.0 100   0
+ 4 3  1 15 4S  E 10 DA       -  "620"  0.0  0.0  50  50
+ 2 3  5  3 4S  E 10 DA       -  "620"  0.0  0.0  50  50
+ 5 3  7 13 4S  E 10 DA       -  "620"  0.0  0.0  50  50
+ 1 3 10 20 4S  E 10 DA       -  "620"  0.0  0.0  50  50
+ 3 3 11 17 4S  E 10 DA       -  "620"  0.0  0.0  50  50
+ 7 3 14  4 4S  E 10 DA       -  "620"  0.0  0.0  50  50
+ 8 3 19  6 4S  E 10 DA       -  "620"  0.0  0.0  50  50
+ 6 3  8  2 3N  W 10 CT       -  "630" -8.0  8.0   0 100
+10 3  -  9 -   -  - -    "Bye"  "Bye"    - -3.0   -  31
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J2.KQ52.T7.AQT54 QT95.T7.A964.K82 A73.AJ83.QJ52.73 K864.964.K83.J96"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 4 4  5  8 4H  E  8 S3   "200"      -  7.0 -7.0  94   6
+ 9 4 15  9 4H  E  8 ST   "200"      -  7.0 -7.0  94   6
+ 6 4  1 18 4H  E  9 S5   "100"      -  1.0 -1.0  56  44
+ 3 4  3 13 4H  W  9 S4   "100"      -  1.0 -1.0  56  44
+ 1 4 10  7 4H  W  9 S6   "100"      -  1.0 -1.0  56  44
+ 2 4 20 17 3H  E  8 ST   "100"      -  1.0 -1.0  56  44
+ 7 4  2  4 3H  W  9 S6       -  "140" -4.0  4.0  25  75
+ 8 4 19 12 3H  W 10 C6       -  "170" -6.0  6.0  13  88
+ 5 4 14 11 4H  E 10 D4       -  "620" -8.0  8.0   0 100
+10 4  6  - -   -  - -    "Bye"  "Bye" -0.9    -  44   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J3.KT8765.T5.KQ3 876.QJ32.KQJ8.64 AQ942.9.A4.AJ985 KT5.A4.97632.T72"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 3 4  3 13 4S  N 10 D9   "420"      -  7.0 -7.0  94   6
+ 8 4 19 12 4S  N 10 D6   "420"      -  7.0 -7.0  94   6
+ 5 4 14 11 2S  N 11 D9   "200"      -  4.0 -4.0  75  25
+ 7 4  2  4 2H  S  9 DK   "140"      -  0.0  0.0  50  50
+ 1 4 10  7 2H  N  9 C2   "140"      -  0.0  0.0  50  50
+ 9 4 15  9 2H  S  9 ST   "140"      -  0.0  0.0  50  50
+ 4 4  5  8 2H  S  8 DK   "110"      - -5.0  5.0  19  81
+ 2 4 20 17 2H  S  8 DK   "110"      - -5.0  5.0  19  81
+ 6 4  1 18 4H  S  9 DK       -   "50" -8.0  8.0   0 100
+10 4  6  - -   -  - -    "Bye"  "Bye" -0.9    -  44   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:9743.8.Q7532.642 .AQ752.AJ94.AT83 AJT6.JT64.K8.K97 KQ852.K93.T6.QJ5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 9 4 15  9 2NX E  4 H3   "800"      -  8.0 -8.0 100   0
+ 3 4  3 13 4H  N 12 SA   "680"      -  6.0 -6.0  88  13
+ 7 4  2  4 4H  N 10 C7   "620"      -  0.0  0.0  50  50
+ 4 4  5  8 4H  N 10 C5   "620"      -  0.0  0.0  50  50
+ 5 4 14 11 4H  N 10 SA   "620"      -  0.0  0.0  50  50
+ 8 4 19 12 4H  N 10 SA   "620"      -  0.0  0.0  50  50
+ 2 4 20 17 4H  N 10 C2   "620"      -  0.0  0.0  50  50
+ 6 4  1 18 4H  N  9 SA       -  "100" -7.0  7.0   6  94
+ 1 4 10  7 4H  N  9 C2       -  "100" -7.0  7.0   6  94
+10 4  6  - -   -  - -    "Bye"  "Bye" -0.9    -  44   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T9872.T9.9.AJT65 K43.K2.AT72.Q743 A5.Q76.KQJ8.K982 QJ6.AJ8543.6543."]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 4 5  2  5 2S  N  7 HQ       -  "100"  5.0 -5.0  81  19
+ 1 5  7 20 2S  N  7 HK       -  "100"  5.0 -5.0  81  19
+ 7 5 11 15 2S  S  7 HA       -  "100"  5.0 -5.0  81  19
+ 2 5 17 10 2S  N  7 HK       -  "100"  5.0 -5.0  81  19
+ 6 5  4 13 2H  W  8 D9       -  "110"  0.0  0.0  50  50
+ 9 5  6  9 2N  S  6 H3       -  "200" -4.0  4.0  25  75
+ 8 5  8  1 5C  N  9 DA       -  "200" -4.0  4.0  25  75
+ 5 5 14 19 2S  N  6 H6       -  "200" -4.0  4.0  25  75
+ 3 5  3 18 2N  S  3 H4       -  "500" -8.0  8.0   0 100
+10 5  - 12 -   -  - -    "Bye"  "Bye"    - -0.5   -  47
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A.KJ8762.QT8.T63 KJT6.94.2.AK7542 954.AQ53.KJ973.J Q8732.T.A654.Q98"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 4 5  2  5 5S  N 11 H2   "450"      -  3.0 -3.0  69  31
+ 9 5  6  9 4S  N 11 H2   "450"      -  3.0 -3.0  69  31
+ 1 5  7 20 4S  N 11 H2   "450"      -  3.0 -3.0  69  31
+ 8 5  8  1 4S  N 11 D8   "450"      -  3.0 -3.0  69  31
+ 5 5 14 19 4S  N 11 H8   "450"      -  3.0 -3.0  69  31
+ 2 5 17 10 4S  N 11 H6   "450"      -  3.0 -3.0  69  31
+ 6 5  4 13 2H  E 10 D2       -  "170" -4.0  4.0  25  75
+ 3 5  3 18 2H  W 11 HT       -  "200" -6.0  6.0  13  88
+ 7 5 11 15 5D  E 11 CA       -  "400" -8.0  8.0   0 100
+10 5  - 12 -   -  - -    "Bye"  "Bye"    - -0.5   -  47
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "15"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q864.A95.K97.J73 J3.T76.65432.T64 A2.KQJ432.J8.AK5 KT975.8.AQT.Q982"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 2 5 17 10 4H  N 12 C5   "680"      -  8.0 -8.0 100   0
+ 4 5  2  5 4H  N 11 H8   "650"      -  2.0 -2.0  63  38
+ 9 5  6  9 4H  N 11 DA   "650"      -  2.0 -2.0  63  38
+ 1 5  7 20 4H  N 11 H8   "650"      -  2.0 -2.0  63  38
+ 7 5 11 15 4H  N 11 C2   "650"      -  2.0 -2.0  63  38
+ 5 5 14 19 4H  N 11 CJ   "650"      -  2.0 -2.0  63  38
+ 3 5  3 18 4H  N 10 H8   "620"      - -5.0  5.0  19  81
+ 6 5  4 13 4H  N 10 C2   "620"      - -5.0  5.0  19  81
+ 8 5  8  1 2H  N 11 DA   "200"      - -8.0  8.0   0 100
+10 5  - 12 -   -  - -    "Bye"  "Bye"    - -0.5   -  47
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q9.QT87.K87.Q643 K87642.K.A4.K987 AJT.AJ96432.J.J5 53.5.QT96532.AT2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 7 6 14  8 4S  N  9 DJ       -   "50"  8.0 -8.0 100   0
+ 3 6 18 10 4S  N  8 HA       -  "100"  6.0 -6.0  88  13
+ 9 6 12  9 3H  E 10 S5       -  "170"  3.0 -3.0  69  31
+ 2 6 17 15 3H  E 10 C2       -  "170"  3.0 -3.0  69  31
+ 8 6 13  6 3H  E 11 CA       -  "200"  0.0  0.0  50  50
+ 5 6  2 11 4H  E 10 CA       -  "620" -3.0  3.0  31  69
+ 4 6 20  5 4H  E 10 S5       -  "620" -3.0  3.0  31  69
+ 6 6  4 19 4H  E 11 S5       -  "650" -6.0  6.0  13  88
+ 1 6  7  3 4HX E 10 S5       -  "790" -8.0  8.0   0 100
+10 6  1  - -   -  - -    "Bye"  "Bye" -0.4    -  48   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A93.AT7.7.KQT862 T72.KQ965.Q83.43 KQJ65.J8.A42.AJ7 84.432.KJT965.95"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 3 6 18 10 6S  S 13 D3  "1010"      -  8.0 -8.0 100   0
+ 5 6  2 11 3N  N 13 HK   "520"      -  2.0 -2.0  63  38
+ 6 6  4 19 3N  N 13 HK   "520"      -  2.0 -2.0  63  38
+ 1 6  7  3 3N  N 13 HK   "520"      -  2.0 -2.0  63  38
+ 9 6 12  9 3N  N 13 H5   "520"      -  2.0 -2.0  63  38
+ 4 6 20  5 3N  N 13 HK   "520"      -  2.0 -2.0  63  38
+ 8 6 13  6 4S  S 13 H4   "510"      - -6.0  6.0  13  88
+ 7 6 14  8 4S  S 13 DJ   "510"      - -6.0  6.0  13  88
+ 2 6 17 15 4S  S 13 H2   "510"      - -6.0  6.0  13  88
+10 6  1  - -   -  - -    "Bye"  "Bye" -0.4    -  48   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "18"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A973.QJ8.T96.KT2 T6.53.KQ87.AJ953 Q542.K762.43.Q86 KJ8.AT94.AJ52.74"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 7 6 14  8 3N  N 10 S3   "630"      -  8.0 -8.0 100   0
+ 1 6  7  3 2D  N 11 SA   "150"      -  5.0 -5.0  81  19
+ 9 6 12  9 3D  N 11 S3   "150"      -  5.0 -5.0  81  19
+ 5 6  2 11 3D  N 10 H2   "130"      - -1.0  1.0  44  56
+ 2 6 17 15 2D  N 10 HQ   "130"      - -1.0  1.0  44  56
+ 3 6 18 10 3D  N 10 HK   "130"      - -1.0  1.0  44  56
+ 4 6 20  5 3D  N 10 HQ   "130"      - -1.0  1.0  44  56
+ 8 6 13  6 2N  N  8 S5   "120"      - -6.0  6.0  13  88
+ 6 6  4 19 3D  N  8 HQ       -  "100" -8.0  8.0   0 100
+10 6  1  - -   -  - -    "Bye"  "Bye" -0.4    -  48   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:QJ982.AJ3.T7.A95 AK75.T52.632.QJ8 T64.Q84.QJ5.T762 3.K976.AK984.K43"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 1 7  7 17 3N  W  7 S4   "200"      -  8.0 -8.0 100   0
+ 4 7 10  3 2S  S  8 CQ   "110"      -  6.0 -6.0  88  13
+ 9 7 12  6 3C  W  8 S6   "100"      -  3.0 -3.0  69  31
+ 2 7 15 18 4D  E  9 SQ   "100"      -  3.0 -3.0  69  31
+ 6 7  1 14 2S  S  7 SA       -   "50"  0.0  0.0  50  50
+ 5 7  5 11 1N  W  7 ST       -   "90" -2.0  2.0  38  63
+ 3 7  2 20 3S  S  7 CQ       -  "100" -4.0  4.0  25  75
+ 8 7  9  4 3D  E  9 SQ       -  "110" -6.0  6.0  13  88
+ 7 7 19 13 2H  W  9 S4       -  "140" -8.0  8.0   0 100
+10 7  -  8 -   -  - -    "Bye"  "Bye"    - -1.4   -  41
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A532.KJ874.7.AK8 T864.953.432.T52 Q97.A6.KQJ9.QJ94 KJ.QT2.AT865.763"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 6 7  1 14 4H  W  9 S4   "100"      -  6.0 -6.0  88  13
+ 9 7 12  6 3N  W  8 S6   "100"      -  6.0 -6.0  88  13
+ 7 7 19 13 6N  E 11 D6   "100"      -  6.0 -6.0  88  13
+ 8 7  9  4 3N  W  9 S4       -  "600"  2.0 -2.0  63  38
+ 3 7  2 20 3N  E 10 D5       -  "630"  0.0  0.0  50  50
+ 5 7  5 11 3N  E 11 D5       -  "660" -2.0  2.0  38  63
+ 4 7 10  3 3N  E 12 D6       -  "690" -4.0  4.0  25  75
+ 1 7  7 17 2DX S  3 CA       - "1400" -6.0  6.0  13  88
+ 2 7 15 18 6N  E 12 DA       - "1440" -8.0  8.0   0 100
+10 7  -  8 -   -  - -    "Bye"  "Bye"    - -1.4   -  41
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K65.9842.3.KQ763 QJ74.J7.AKJ95.A4 A2.KQ.T872.JT985 T983.AT653.Q64.2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 8 7  9  4 4C  S 10 D4   "130"      -  8.0 -8.0 100   0
+ 4 7 10  3 2H  E  6 CJ   "100"      -  6.0 -6.0  88  13
+ 3 7  2 20 2S  E 10 CJ       -  "170"  2.0 -2.0  63  38
+ 2 7 15 18 2S  E 10 CJ       -  "170"  2.0 -2.0  63  38
+ 7 7 19 13 3S  E 10 CJ       -  "170"  2.0 -2.0  63  38
+ 6 7  1 14 4S  E 10 HK       -  "420" -5.0  5.0  19  81
+ 5 7  5 11 4S  E 10 CJ       -  "420" -5.0  5.0  19  81
+ 1 7  7 17 4S  W 10 HK       -  "420" -5.0  5.0  19  81
+ 9 7 12  6 4S  E 10 CJ       -  "420" -5.0  5.0  19  81
+10 7  -  8 -   -  - -    "Bye"  "Bye"    - -1.4   -  41
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K9643.A84.T9.QJT 52.KJ2.63.A87542 JT.9765.K8542.K3 AQ87.QT3.AQJ7.96"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 9 8 12  8 3N  N 10 S3   "430"      -  7.0 -7.0  94   6
+ 1 8 18  7 3N  N 10 S3   "430"      -  7.0 -7.0  94   6
+ 8 8 13  9 1N  N 10 S5   "180"      -  4.0 -4.0  75  25
+ 5 8 20 11 2N  N  9 S4   "150"      -  2.0 -2.0  63  38
+ 7 8  1  6 3N  N  8 S3       -   "50"  0.0  0.0  50  50
+ 6 8  5 10 4C  N  8 S3       -  "100" -3.0  3.0  31  69
+ 2 8 17  2 3N  N  7 S3       -  "100" -3.0  3.0  31  69
+ 4 8 14  3 4S  S  7 D2       -  "150" -7.0  7.0   6  94
+ 3 8 15 19 2N  N  5 CQ       -  "150" -7.0  7.0   6  94
+10 8  4  - -   -  - -    "Bye"  "Bye" -1.2    -  43   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J..KQ943.AQT8742 AT73.AJ642.72.93 Q85.9875.J65.KJ6 K9642.KQT3.AT8.5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 7 8  1  6 5CX S 11 HA   "750"      -  7.0 -7.0  94   6
+ 8 8 13  9 5CX S 11 SA   "750"      -  7.0 -7.0  94   6
+ 3 8 15 19 5C  N 11 H3   "600"      -  4.0 -4.0  75  25
+ 2 8 17  2 5HX W  9 C6   "500"      -  2.0 -2.0  63  38
+ 1 8 18  7 4C  S 11 SA   "150"      -  0.0  0.0  50  50
+ 5 8 20 11 4C  S 10 HA   "130"      - -2.0  2.0  38  63
+ 6 8  5 10 6H  E 11 CK   "100"      - -4.0  4.0  25  75
+ 9 8 12  8 4S  E 10 DK       -  "620" -6.0  6.0  13  88
+ 4 8 14  3 4SX E 10 DQ       -  "790" -8.0  8.0   0 100
+10 8  4  - -   -  - -    "Bye"  "Bye" -1.2    -  43   -
+
+[Event "110319 M"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2019.03.11"]
+[Board "24"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ5.J7532.Q42.T2 KQT943.Q.JT86.73 76.986.A7.KQ9865 82.AKT4.K953.AJ4"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2019.03.11"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\2R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+ 3 8 15 19 3N  S 11 H3   "460"      -  8.0 -8.0 100   0
+ 1 8 18  7 4S  N 10 CK   "420"      -  6.0 -6.0  88  13
+ 9 8 12  8 2S  N 10 DA   "170"      -  1.0 -1.0  56  44
+ 8 8 13  9 2S  N 10 C5   "170"      -  1.0 -1.0  56  44
+ 2 8 17  2 3S  N 10 CK   "170"      -  1.0 -1.0  56  44
+ 5 8 20 11 2S  N 10 CK   "170"      -  1.0 -1.0  56  44
+ 7 8  1  6 3C  E  6 S5   "150"      - -4.0  4.0  25  75
+ 4 8 14  3 5S  N  9 DA       -  "100" -6.0  6.0  13  88
+ 6 8  5 10 5DX N  9 CK       -  "300" -8.0  8.0   0 100
+10 8  4  - -   -  - -    "Bye"  "Bye" -1.2    -  43   -

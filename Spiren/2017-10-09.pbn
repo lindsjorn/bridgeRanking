@@ -1,0 +1,779 @@
+% PBN 2.0
+% EXPORT
+% 
+% <META  name=Generator                  content="Ruter i Norge">
+% <META  name=Version                    content="4.11">
+% <META  name=Author                     content="www.brenning.se">
+% 
+% <META  name=Licencee                   content="0190 TopBridge BC">
+% <META  name=Arranger                   content="0179 Spiren BK">
+% <META  name=Signature                  content="0100 NBF Oslo">
+% <META  name=Created                    content="2017-10-10 13:59:18">
+% 
+% <META  name=ContestDate                content="2017-10-09">
+% <META  name=ContestName                content="Spiren 091017">
+% <META  name=ContestType                content="2">
+% <META  name=ScoringType                content="MatchPoints;MP1">
+% <META  name=Barometer                  content="Y">
+% <META  name=TournamentDirector         content="">
+% 
+% <META  name=TableCount                 content="9">
+% <META  name=PairCount                  content="17">
+% <META  name=PhantomCount               content="1">
+% <META  name=BoardCount                 content="24">
+% <META  name=RoundCount                 content="8">
+% <META  name=BoardCountSession          content="24">
+% <META  name=BoardCountSessionMax       content="24">
+% <META  name=Average                    content="">
+% <META  name=HandicapPercentageAverage  content="">
+% 
+% <META  name=CRCategoryID               content="7">
+% <META  name=Factor                     content="1">
+% <META  name=FactorReason               content="">
+% <META  name=ContestID                  content="">
+% <META  name=SerialNumber               content="428">
+% <META  name=PlayerCategoryCount        content="">
+% 
+% <META  name=CRMultiSession             content="">
+% <META  name=CRMultiSessionID           content="">
+% <META  name=CRSession                  content="">
+% <META  name=CRSessionCount             content="">
+% <META  name=CRCutAfterSession          content="">
+% 
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K854.T64.AK3.765 J762.J.QJ2.K9842 AT3.AQ852.T765.3 Q9.K973.984.AQJT"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[TotalScoreTable "Rank\2R;PairId\2R;Table\1R;Direction\5R;TotalScoreMP\5R;TotalPercentage\5R;Names\41L;NrBoards\2R;Club\34L;MemberID1\7R;MemberID2\7R;Sex1\3R;Sex2\3R"]
+ 1  7 4 "N-S"  35.0 60.42 "Eva Hjulstad - Inger Midthun"            24 "Hjerter Konge"                    "26910" "31427" "W" "W"
+ 2 10 5 "E-W"  31.0 59.23 "Jens Kaltenborn - Gry Brenna"            24 "Sinsen BK - Hjerter Konge"        "27095" "40499" "M" "W"
+ 3  2 1 "E-W"  26.3 57.82 "Oddvar Ljønes - Ola Bjørnsen"            24 "Hjerter Konge - Pass BK"          "36412" "31619" "M" "M"
+ 4 18 9 "N-S"  24.0 57.14 "Halvor Dahl - Ragnar Askheim"            24 "Spiren BK - Hjerter Konge"        "42387" "40352" "M" "M"
+ 5  4 2 "E-W"  22.0 56.55 "Beate Monrad - Svein Arild Naas Olsen"   24 "Bridgesenteret BK - TopBridge BC" "43168" "14358" "W" "M"
+ 6  6 3 "N-S"  13.7 54.08 "Frank Isaksen - Kirsti Kvalheim"         24 "Hjerter Konge"                    "31734" "25931" "M" "W"
+ 7  3 2 "N-S"  12.0 53.57 "Tim Nørgaard - Ingrid Sollid"            24 "Bridgekameratene - Spiren BK"     "29591" "43707" "M" "W"
+ 8  9 5 "N-S"  11.4 53.40 "Bente Skymoen - Tor Austdal"             24 "Hjerter Konge - Sporveiens BK"    "32916" "35059" "W" "M"
+ 9 17 9 "E-W"   5.7 51.70 "Leif-Erik Hoel Stabell - Tommy Pedersen" 24 "Spiren BK"                        "41785" "42399" "M" "M"
+10  1 1 "N-S"   5.0 51.49 "Kari Hovden - Eitan Zuckermann"          24 "Spiren BK - Oslo Døves BK"        "42164"  "3237" "W" "M"
+11 12 6 "N-S"  -8.0 47.62 "Torleif Lundgreen - Birgir Olafsson"     24 "Spiren BK - Departementenes BK"    "4406" "26833" "M" "M"
+12  5 3 "E-W" -10.3 46.94 "Trine Furunes - Jorunn Øygard"           24 "TopBridge BC - Bridgekameratene"  "13969" "40507" "W" "W"
+13 13 7 "E-W" -13.7 45.92 "Elisabeth Neubeck - Ragnhild Haug"       24 "Spiren BK"                        "41786" "37217" "W" "W"
+14 14 7 "N-S" -32.0 40.48 "Vibeke Torgersen - Elisabet Hoel"        24 "Spiren BK"                        "38315" "38320" "W" "W"
+15  8 4 "E-W" -34.0 39.88 "May Britt Magelsen - Ann Kvistad"        24 "Spiren BK"                        "42165" "42167" "W" "W"
+16 16 8 "E-W" -40.0 38.10 "Britt Gro Selig - Jan Thomsen"           24 "Bridgesenteret BK"                "42902" "43167" "W" "M"
+17 15 8 "N-S" -50.0 35.12 "Vidar Hjellvik - Finn E Gjersum"         24 -                                  "42171" "38238" "M" "M"
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 1  6  5 3C  W  8 DA    "50"     -  4.0 -4.0  79  21
+5 1  9 10 2C  W  7 H4    "50"     -  4.0 -4.0  79  21
+7 1 14 13 3C  W  8 HT    "50"     -  4.0 -4.0  79  21
+9 1 18 17 3C  W  8 DA    "50"     -  4.0 -4.0  79  21
+1 1  1  2 2H  S  7 SQ       -  "50" -1.0  1.0  43  57
+8 1 15 16 2C  W  8 DA       -  "90" -3.0  3.0  29  71
+4 1  7  8 3H  S  7 CA       - "100" -5.0  5.0  14  86
+2 1  3  4 1N  W  8 DA       - "120" -7.0  7.0   0 100
+6 1 12  - -   -  - -    "Bye" "Bye" -0.3    -  48   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:752.KT8.Q864.976 43.QJ965432.53.3 QT986.A.A97.K842 AKJ.7.KJT2.AQJT5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+9 1 18 17 4SX W  6 H7   "800"     -  7.0 -7.0 100   0
+5 1  9 10 3NX N  9 H2   "750"     -  5.0 -5.0  86  14
+2 1  3  4 4H  S 10 S6   "620"     -  3.0 -3.0  71  29
+4 1  7  8 3N  N  9 D4   "600"     -  0.0  0.0  50  50
+8 1 15 16 3N  N  9 D4   "600"     -  0.0  0.0  50  50
+1 1  1  2 4H  S  9 S5       - "100" -4.0  4.0  21  79
+7 1 14 13 4H  S  9 ST       - "100" -4.0  4.0  21  79
+3 1  6  5 5C  N  7 S2       - "400" -7.0  7.0   0 100
+6 1 12  - -   -  - -    "Bye" "Bye" -0.3    -  48   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J63.JT98.A9.KJ92 A874.K.KT62.T854 Q9.AQ752.J85.AQ3 KT52.643.Q743.76"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 1  1  2 4H  N 11 S2   "450"     -  3.0 -3.0  71  29
+4 1  7  8 4H  N 11 S2   "450"     -  3.0 -3.0  71  29
+7 1 14 13 4H  N 11 C7   "450"     -  3.0 -3.0  71  29
+8 1 15 16 4H  N 11 S2   "450"     -  3.0 -3.0  71  29
+9 1 18 17 4H  N 11 C7   "450"     -  3.0 -3.0  71  29
+3 1  6  5 4H  N 10 C7   "420"     - -4.0  4.0  21  79
+5 1  9 10 4H  N 10 H3   "420"     - -4.0  4.0  21  79
+2 1  3  4 3N  N  9 H3   "400"     - -7.0  7.0   0 100
+6 1 12  - -   -  - -    "Bye" "Bye" -0.3    -  48   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJT875.QT53.5.K9 92.K642.KQT83.53 64.J8.97.QJT7642 KQ3.A97.AJ642.A8"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+2 2  2  6 3N  S 10 SJ   "630"     -  6.0 -6.0  93   7
+9 2 17 15 3N  S 10 S5   "630"     -  6.0 -6.0  93   7
+5 2  7 12 4D  S 11 SA   "150"     -  2.0 -2.0  64  36
+6 2 14  9 3D  S 11 SA   "150"     -  2.0 -2.0  64  36
+3 2  8  3 2H  S  9 D5   "140"     - -1.0  1.0  43  57
+8 2 13 18 4D  N 10 S6   "130"     - -3.0  3.0  29  71
+1 2  1  4 2S  W  7 DK   "100"     - -5.0  5.0  14  86
+4 2  5 10 4H  N  6 S6       - "400" -7.0  7.0   0 100
+7 2 16  - -   -  - -    "Bye" "Bye" -1.7    -  38   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J8542.4.K5.AKJ82 63.AT8.AJ874.953 AT97.KJ932.T96.7 KQ.Q765.Q32.QT64"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 2  7 12 4SX N 10 S6   "790"     -  7.0 -7.0 100   0
+1 2  1  4 4S  N 10 DA   "620"     -  4.0 -4.0  79  21
+8 2 13 18 4S  S 10 S6   "620"     -  4.0 -4.0  79  21
+4 2  5 10 4D  E  6 SA   "200"     -  1.0 -1.0  57  43
+2 2  2  6 4S  N  9 C2       - "100" -2.0  2.0  36  64
+9 2 17 15 4S  N  9 S3       - "100" -2.0  2.0  36  64
+3 2  8  3 4S  N  8 S6       - "200" -6.0  6.0   7  93
+6 2 14  9 4S  N  8 D4       - "200" -6.0  6.0   7  93
+7 2 16  - -   -  - -    "Bye" "Bye" -1.7    -  38   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT8.KQ53.J3.AJ98 AQ963.976.976.KQ 2.JT84.KT4.T7654 J754.A2.AQ852.32"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+9 2 17 15 3S  S 11 C4   "200"     -  7.0 -7.0 100   0
+2 2  2  6 3S  S  9 C7   "140"     -  3.0 -3.0  71  29
+5 2  7 12 3S  S  9 S2   "140"     -  3.0 -3.0  71  29
+6 2 14  9 3S  S  9 HJ   "140"     -  3.0 -3.0  71  29
+1 2  1  4 4S  S  9 HJ       -  "50" -4.0  4.0  21  79
+4 2  5 10 4S  N  9 HJ       -  "50" -4.0  4.0  21  79
+3 2  8  3 4S  S  9 H4       -  "50" -4.0  4.0  21  79
+8 2 13 18 3S  S  8 C7       -  "50" -4.0  4.0  21  79
+7 2 16  - -   -  - -    "Bye" "Bye" -1.7    -  38   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AKT4.KQJT63.8.AK J85.A.QT73.JT982 32.9874.AK4.Q543 Q976.52.J9652.76"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 3  1  6 6H  S 12 CJ  "1430"     -  3.0 -3.0  71  29
+2 3  4  8 6H  S 12 C2  "1430"     -  3.0 -3.0  71  29
+3 3 10  2 6H  S 12 CJ  "1430"     -  3.0 -3.0  71  29
+9 3 15 13 6H  N 12 C7  "1430"     -  3.0 -3.0  71  29
+7 3 18  9 6H  S 12 CJ  "1430"     -  3.0 -3.0  71  29
+4 3  3 12 4H  S 12 D3   "680"     - -5.0  5.0  14  86
+5 3  5 14 4H  S 12 CQ   "680"     - -5.0  5.0  14  86
+6 3 16  7 4H  S 12 CJ   "680"     - -5.0  5.0  14  86
+8 3  - 17 -   -  - -    "Bye" "Bye"    -  0.2   -  52
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:9.JT653.AQ83.973 JT7.AK87.JT9.AKJ AK6542.Q9.652.82 Q83.42.K74.QT654"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+2 3  4  8 3N  N  9 SA   "400"     -  6.0 -6.0  93   7
+5 3  5 14 3N  N  9 SA   "400"     -  6.0 -6.0  93   7
+1 3  1  6 1N  N  9 S4   "150"     -  3.0 -3.0  71  29
+6 3 16  7 2S  E  7 D4    "50"     -  0.0  0.0  50  50
+7 3 18  9 2S  E  7 D4    "50"     -  0.0  0.0  50  50
+4 3  3 12 3N  N  8 H3       -  "50" -5.0  5.0  14  86
+3 3 10  2 3C  N  8 SA       -  "50" -5.0  5.0  14  86
+9 3 15 13 3N  N  8 SA       -  "50" -5.0  5.0  14  86
+8 3  - 17 -   -  - -    "Bye" "Bye"    -  0.2   -  52
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K7653.JT4.K98.42 QJ9.Q95.32.AK865 T2.K83.QJ64.JT93 A84.A762.AT75.Q7"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+4 3  3 12 3N  W  8 S3   "100"     -  5.0 -5.0  86  14
+5 3  5 14 3N  E  8 CJ   "100"     -  5.0 -5.0  86  14
+3 3 10  2 3N  E  8 S5   "100"     -  5.0 -5.0  86  14
+2 3  4  8 2N  W  8 DK       - "120"  0.0  0.0  50  50
+9 3 15 13 2N  W  8 S3       - "120"  0.0  0.0  50  50
+6 3 16  7 2N  W  9 S7       - "150" -3.0  3.0  29  71
+1 3  1  6 3N  E  9 CJ       - "600" -6.0  6.0   7  93
+7 3 18  9 3N  W  9 S3       - "600" -6.0  6.0   7  93
+8 3  - 17 -   -  - -    "Bye" "Bye"    -  0.2   -  52
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K.AKJ74.K74.A987 QJ943.98.J52.QT6 T8752.T.T986.KJ5 A6.Q6532.AQ3.432"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 4  3 16 1H  E  7 S3       -  "80"  7.0 -7.0 100   0
+4 4  2 14 1H  E  8 SQ       - "110"  2.0 -2.0  64  36
+2 4  6 10 1H  E  8 SQ       - "110"  2.0 -2.0  64  36
+8 4  9 15 1H  E  8 H9       - "110"  2.0 -2.0  64  36
+6 4 18  5 1H  E  8 SQ       - "110"  2.0 -2.0  64  36
+3 4 12  4 2C  E 10 D5       - "130" -3.0  3.0  29  71
+1 4  1  8 1H  E  9 SQ       - "140" -5.0  5.0  14  86
+7 4 17  7 3S  N  7 HA       - "200" -7.0  7.0   0 100
+9 4 13  - -   -  - -    "Bye" "Bye" -0.6    -  46   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ72.K4.Q2.KQ642 Q8.J875.AK84.T83 T4.AQT62.T973.A5 A9653.93.J65.J97"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 4 18  5 3N  N 10 D6   "430"     -  7.0 -7.0 100   0
+3 4 12  4 2D  W  4 CA   "200"     -  5.0 -5.0  86  14
+5 4  3 16 1N  N 10 H2   "180"     -  3.0 -3.0  71  29
+4 4  2 14 3H  N 10 DJ   "170"     -  0.0  0.0  50  50
+2 4  6 10 2H  N 10 D6   "170"     -  0.0  0.0  50  50
+7 4 17  7 1N  S  9 DA   "150"     - -3.0  3.0  29  71
+8 4  9 15 1N  N  8 S3   "120"     - -5.0  5.0  14  86
+1 4  1  8 3N  N  8 S3       -  "50" -7.0  7.0   0 100
+9 4 13  - -   -  - -    "Bye" "Bye" -0.6    -  46   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K76432.932.Q4.A3 QJ98.4.87652.985 AT.KJ875.KT.KQJ7 5.AQT6.AJ93.T642"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 4  1  8 3N  E  6 D3   "150"     -  7.0 -7.0 100   0
+4 4  2 14 2N  E  7 D3    "50"     -  1.0 -1.0  57  43
+2 4  6 10 3N  E  8 C5    "50"     -  1.0 -1.0  57  43
+3 4 12  4 4S  W  9 H4    "50"     -  1.0 -1.0  57  43
+7 4 17  7 4S  W  9 H4    "50"     -  1.0 -1.0  57  43
+6 4 18  5 4S  E  9 DA    "50"     -  1.0 -1.0  57  43
+5 4  3 16 2H  E  8 S5       - "110" -5.0  5.0  14  86
+8 4  9 15 2S  E  9 D3       - "140" -7.0  7.0   0 100
+9 4 13  - -   -  - -    "Bye" "Bye" -0.6    -  46   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J852.542.642.854 A73.A97.JT75.A76 Q6.JT63.AKQ.JT92 KT94.KQ8.983.KQ3"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+4 5  4 16 4S  W  8 H5   "200"     -  7.0 -7.0 100   0
+8 5  7 13 4S  W  9 C8   "100"     -  5.0 -5.0  86  14
+1 5  1 10 3N  E  9 CJ       - "600" -1.0  1.0  43  57
+5 5  2 18 3N  E  9 CJ       - "600" -1.0  1.0  43  57
+3 5 14  6 3N  E  9 C2       - "600" -1.0  1.0  43  57
+7 5 15  5 3N  E  9 C2       - "600" -1.0  1.0  43  57
+6 5 17  3 3N  W  9 C4       - "600" -1.0  1.0  43  57
+2 5  8 12 3N  W 10 S2       - "630" -7.0  7.0   0 100
+9 5  -  9 -   -  - -    "Bye" "Bye"    -  0.5   -  53
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:94.A9432.J4.QJ76 AK2.J8.QT8753.98 Q765.KQT7.A96.32 JT83.65.K2.AKT54"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 5  2 18 4D  S 10 HK   "130"     -  6.0 -6.0  93   7
+6 5 17  3 2D  S 10 HK   "130"     -  6.0 -6.0  93   7
+4 5  4 16 2N  S  8 H7   "120"     -  3.0 -3.0  71  29
+1 5  1 10 3H  W  8 S3    "50"     -  1.0 -1.0  57  43
+8 5  7 13 2H  E  8 SA       - "110" -1.0  1.0  43  57
+2 5  8 12 1H  E  9 SA       - "140" -5.0  5.0  14  86
+3 5 14  6 3H  E  9 C2       - "140" -5.0  5.0  14  86
+7 5 15  5 2H  E  9 S2       - "140" -5.0  5.0  14  86
+9 5  -  9 -   -  - -    "Bye" "Bye"    -  0.5   -  53
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "15"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K543.T86.32.Q976 QT98.KQ9.AJ94.A8 A2.J432.KQ8.J432 J76.A75.T765.KT5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+8 5  7 13 3N  W  8 DK    "50"     -  7.0 -7.0 100   0
+4 5  4 16 3D  W  9 H4       - "110"  5.0 -5.0  86  14
+5 5  2 18 1N  W  8 H2       - "120"  1.0 -1.0  57  43
+3 5 14  6 1N  W  8 H2       - "120"  1.0 -1.0  57  43
+6 5 17  3 1N  W  8 H4       - "120"  1.0 -1.0  57  43
+1 5  1 10 1N  W  9 C3       - "150" -3.0  3.0  29  71
+7 5 15  5 1N  W 10 DK       - "180" -5.0  5.0  14  86
+2 5  8 12 3N  W 10 D8       - "430" -7.0  7.0   0 100
+9 5  -  9 -   -  - -    "Bye" "Bye"    -  0.5   -  53
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K52.K763.KJT3.A4 976.A92.862.Q975 J84.Q.AQ75.KJT83 AQT3.JT854.94.62"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 6  1 12 3N  W  8 S5   "100"     -  6.0 -6.0  93   7
+2 6 10 14 3N  W  8 S6   "100"     -  6.0 -6.0  93   7
+9 6  9  7 3D  W 10 D2       - "130"  3.0 -3.0  71  29
+7 6 13  3 1N  E 10 HJ       - "180"  1.0 -1.0  57  43
+4 6  6 18 3N  W  9 H6       - "600" -2.0  2.0  36  64
+6 6 15  2 3N  W  9 C5       - "600" -2.0  2.0  36  64
+5 6  4 17 3N  W 10 H2       - "630" -6.0  6.0   7  93
+3 6 16  8 3N  W 10 C7       - "630" -6.0  6.0   7  93
+8 6  5  - -   -  - -    "Bye" "Bye" -0.4    -  47   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A9752.AQ.AJ84.J5 QJT643.53.Q5.AQ9 .KT98642.T762.T2 K8.J7.K93.K87643"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+9 6  9  7 4H  N 11 SQ   "450"     -  6.0 -6.0  93   7
+2 6 10 14 4H  N 11 SQ   "450"     -  6.0 -6.0  93   7
+4 6  6 18 4H  S 10 S2   "420"     -  2.0 -2.0  64  36
+3 6 16  8 4H  S 10 C3   "420"     -  2.0 -2.0  64  36
+6 6 15  2 3C  W  8 S2    "50"     - -1.0  1.0  43  57
+1 6  1 12 3D  N  8 SQ       -  "50" -3.0  3.0  29  71
+5 6  4 17 4DX N  9 CA       - "100" -5.0  5.0  14  86
+7 6 13  3 1S  N  4 H5       - "150" -7.0  7.0   0 100
+8 6  5  - -   -  - -    "Bye" "Bye" -0.4    -  47   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "18"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQ3.K743.J42.A84 AT9864.Q.T3.KJ65 75.AJ5.K875.T972 J2.T9862.AQ96.Q3"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 6  1 12 3N  W  4 SJ   "250"     -  6.0 -6.0  93   7
+4 6  6 18 3C  E  4 HQ   "250"     -  6.0 -6.0  93   7
+5 6  4 17 1S  S 10 H5   "170"     -  1.0 -1.0  57  43
+2 6 10 14 2S  S 10 CT   "170"     -  1.0 -1.0  57  43
+7 6 13  3 2S  S 10 D5   "170"     -  1.0 -1.0  57  43
+9 6  9  7 2S  S  9 C3   "140"     - -4.0  4.0  21  79
+3 6 16  8 3S  S  9 C2   "140"     - -4.0  4.0  21  79
+6 6 15  2 2H  N  7 CA       - "100" -7.0  7.0   0 100
+8 6  5  - -   -  - -    "Bye" "Bye" -0.4    -  47   -
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:JT.K7.J842.J7643 K875.QJ3.KQ75.AQ 932.T85.AT963.KT AQ64.A9642..9852"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+8 7  3  9 4S  E 10 C2       - "620"  3.0 -3.0  71  29
+5 7  6 15 4S  E 10 C6       - "620"  3.0 -3.0  71  29
+9 7  7  5 4H  W 10 S9       - "620"  3.0 -3.0  71  29
+6 7 13  4 4H  W 10 S9       - "620"  3.0 -3.0  71  29
+3 7 18 10 4H  W 10 H5       - "620"  3.0 -3.0  71  29
+1 7  1 14 4H  W 11 H5       - "650" -5.0  5.0  14  86
+4 7  8 17 4S  W 11 DA       - "650" -5.0  5.0  14  86
+2 7 12 16 4S  W 11 CK       - "650" -5.0  5.0  14  86
+7 7  -  2 -   -  - -    "Bye" "Bye"    -  1.1   -  58
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K52.Q987.A973.K3 T9843.J2.KQ2.A52 AQ76.AKT5.J4.T86 J.643.T865.QJ974"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 7  1 14 4H  W  9 ST   "100"     -  3.0 -3.0  71  29
+8 7  3  9 4H  E  9 C2   "100"     -  3.0 -3.0  71  29
+5 7  6 15 4H  E  9 SJ   "100"     -  3.0 -3.0  71  29
+9 7  7  5 4H  E  9 SJ   "100"     -  3.0 -3.0  71  29
+4 7  8 17 4H  W  9 SJ   "100"     -  3.0 -3.0  71  29
+2 7 12 16 4H  W 10 CA       - "620" -5.0  5.0  14  86
+6 7 13  4 4H  E 10 SJ       - "620" -5.0  5.0  14  86
+3 7 18 10 4H  E 10 SJ       - "620" -5.0  5.0  14  86
+7 7  -  2 -   -  - -    "Bye" "Bye"    -  1.1   -  58
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q6532.K3.K32.J93 T7.T972.AQJT.Q87 J984.5.8765.KT52 AK.AQJ864.94.A64"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 7  6 15 4H  W 11 S5       - "450"  6.0 -6.0  93   7
+3 7 18 10 4H  W 11 D2       - "450"  6.0 -6.0  93   7
+1 7  1 14 4H  W 12 S2       - "480"  1.0 -1.0  57  43
+4 7  8 17 4H  W 12 D2       - "480"  1.0 -1.0  57  43
+6 7 13  4 4H  W 12 D2       - "480"  1.0 -1.0  57  43
+2 7 12 16 4SX N  7 DQ       - "800" -3.0  3.0  29  71
+8 7  3  9 6H  W 12 S2       - "980" -6.0  6.0   7  93
+9 7  7  5 6H  W 12 S2       - "980" -6.0  6.0   7  93
+7 7  -  2 -   -  - -    "Bye" "Bye"    -  1.1   -  58
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQJ.AQT72.T5.Q76 T9.K5.AQ86.AJT32 8432.J93.K97.K94 A765.864.J432.85"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+4 8 10 15 2C  S  9 H3   "110"     -  7.0 -7.0 100   0
+1 8  1 16 3H  E  8 ST   "100"     -  5.0 -5.0  86  14
+8 8  2  7 2H  E  8 C2       - "110"  0.0  0.0  50  50
+5 8  8 13 2H  E  8 CA       - "110"  0.0  0.0  50  50
+7 8  9  4 2H  E  8 ST       - "110"  0.0  0.0  50  50
+2 8 14 18 2H  E  8 C2       - "110"  0.0  0.0  50  50
+9 8  5  3 2H  E  9 ST       - "140" -6.0  6.0   7  93
+3 8 17 12 2H  E  9 ST       - "140" -6.0  6.0   7  93
+6 8  -  6 -   -  - -    "Bye" "Bye"    -  0.6   -  54
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J9.KT73.85.AJT95 A85.A542.A9.Q864 KQ7632.8.KT72.K2 T4.QJ96.QJ643.73"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 8  1 16 1S  N 11 C7   "200"     -  5.0 -5.0  86  14
+8 8  2  7 2S  N 11 C2   "200"     -  5.0 -5.0  86  14
+4 8 10 15 2S  N 11 D2   "200"     -  5.0 -5.0  86  14
+7 8  9  4 2S  N 10 DQ   "170"     -  0.0  0.0  50  50
+3 8 17 12 2S  N 10 DQ   "170"     -  0.0  0.0  50  50
+9 8  5  3 3S  N  9 C7   "140"     - -3.0  3.0  29  71
+5 8  8 13 2S  N  8 C7   "110"     - -5.0  5.0  14  86
+2 8 14 18 3SX N  8 C2       - "200" -7.0  7.0   0 100
+6 8  -  6 -   -  - -    "Bye" "Bye"    -  0.6   -  54
+
+[Event "Spiren 091017"]
+[Site "0100 NBF Oslo, Norge"]
+[Date "2017.10.09"]
+[Board "24"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK87.T983.KJT8.8 Q653.AQ2.A43.KQ2 T2.J54.96.AJT754 J94.K76.Q752.963"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.10.09"]
+[Annotator "0100 NBF Oslo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\3L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+7 8  9  4 2SX W  6 S3   "300"     -  6.0 -6.0  93   7
+3 8 17 12 2SX W  6 CK   "300"     -  6.0 -6.0  93   7
+1 8  1 16 1N  N  8 C4   "120"     -  2.0 -2.0  64  36
+4 8 10 15 1N  N  8 D2   "120"     -  2.0 -2.0  64  36
+2 8 14 18 3C  E  8 S4    "50"     - -1.0  1.0  43  57
+9 8  5  3 1N  N  6 C6       -  "50" -4.0  4.0  21  79
+5 8  8 13 1N  N  6 C4       -  "50" -4.0  4.0  21  79
+8 8  2  7 1N  N  5 C2       - "100" -7.0  7.0   0 100
+6 8  -  6 -   -  - -    "Bye" "Bye"    -  0.6   -  54

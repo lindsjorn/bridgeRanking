@@ -1,0 +1,727 @@
+% PBN 2.0
+% EXPORT
+% 
+% <META  name=Generator                  content="Ruter i Norge">
+% <META  name=Version                    content="4.10">
+% <META  name=Author                     content="www.brenning.se">
+% 
+% <META  name=Licencee                   content="0164 Pass BK">
+% <META  name=Arranger                   content="0179 Spiren BK">
+% <META  name=Signature                  content="0164 Pass BK">
+% <META  name=Created                    content="2016-11-09 21:26:53">
+% 
+% <META  name=ContestDate                content="2016-11-09">
+% <META  name=ContestName                content="Spiren">
+% <META  name=ContestType                content="2">
+% <META  name=ScoringType                content="MatchPoints;MP1">
+% <META  name=Barometer                  content="Y">
+% <META  name=TournamentDirector         content="">
+% 
+% <META  name=TableCount                 content="7">
+% <META  name=PairCount                  content="13">
+% <META  name=PhantomCount               content="1">
+% <META  name=BoardCount                 content="24">
+% <META  name=RoundCount                 content="8">
+% <META  name=BoardCountSession          content="24">
+% <META  name=BoardCountSessionMax       content="24">
+% <META  name=Average                    content="">
+% <META  name=HandicapPercentageAverage  content="">
+% 
+% <META  name=CRCategoryID               content="7">
+% <META  name=Factor                     content="1">
+% <META  name=FactorReason               content="">
+% <META  name=ContestID                  content="999999">
+% <META  name=SerialNumber               content="44">
+% <META  name=PlayerCategoryCount        content="">
+% 
+% <META  name=CRMultiSession             content="">
+% <META  name=CRMultiSessionID           content="">
+% <META  name=CRSession                  content="">
+% <META  name=CRSessionCount             content="">
+% <META  name=CRCutAfterSession          content="">
+% 
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:9432.AJ95.J.KJ96 J.QT43.KT742.A83 KQT76.K87.83.T74 A85.62.AQ965.Q52"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[TotalScoreTable "Rank\2R;PairId\2R;Table\1R;Direction\5R;TotalScoreMP\5R;TotalPercentage\5R;Names\43L;NrBoards\2R;Club\33L;MemberID1\7R;MemberID2\7R;Sex1\3R;Sex2\3R"]
+ 1  5 3 "E-W"  35.0 64.58 "Torleif Lundgreen - Ragnar Askheim"        24 "Spiren BK - Hjerter Konge"        "4406" "40352" "M" "M"
+ 2  4 2 "E-W"  28.6 61.90 "Eitan Zuckermann - Dag Viljen Poleszynski" 24 "Oslo Døves BK - Pass BK"          "3237" "38594" "M" "M"
+ 3  9 5 "N-S"  23.0 59.58 "Kari Hovden - Ragnar Waldahl"              24 "Spiren BK - Hjerter Konge"       "42164"   "640" "W" "M"
+ 4 14 7 "N-S"  20.6 58.57 "Trond Odin Rønbeck - Tommy Pedersen"       24 "Spiren BK - Akademisk BK"        "27336" "42399" "M" "M"
+ 5  6 3 "N-S"  17.0 57.08 "Anne Steen - Kirsten Johanne Andersen"     24 "Spiren BK"                       "36223" "36222" "W" "W"
+ 6  1 1 "N-S"  16.0 56.67 "Hans Henrik Hertzberg - Kjetil Høgevold"   24 "Hjerter Konge"                   "30852"    "+2" "M" "M"
+ 7 12 6 "N-S"   6.9 52.86 "Elisabeth Neubeck - Ragnhild Haug"         24 "Bridgesenteret BK - Spiren BK"   "41786" "37217" "W" "W"
+ 8 10 5 "E-W"  -8.0 46.67 "Beate Monrad - Jan Thomsen"                24 "Bridgesenteret BK"               "43168" "43167" "W" "M"
+ 9  2 1 "E-W" -14.0 44.17 "May Britt Magelsen - Ann Kvistad"          24 -                                 "42165" "42167" "M" "M"
+10  8 4 "E-W" -19.4 41.90 "Svein-Erik Wennberg - Hans Erling Bakke"   24 -                                 "25567" "40357" "M" "M"
+11  7 4 "N-S" -24.0 40.00 "Stian Bergeland - Britt Gro Selig"         24 "Sporveiens BK - Bridge for Alle" "43177" "42902" "M" "W"
+12  3 2 "N-S" -32.0 36.67 "Benedicte Borgersen - Halvor Dahl"         24 "Spiren BK"                       "40430" "42387" "W" "M"
+13 11 6 "E-W" -57.1 26.19 "Vigdis Heggeli - Kari Lilleøien"           24 "Bridgesenteret BK"               "43211" "42664" "W" "W"
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 1 12 11 5D   W  9 S9  "100"      -  5.0 -5.0 100   0
+4 1  7  8 5D   E 10 S6   "50"      -  3.0 -3.0  80  20
+1 1  1  2 3D   W 10 C6      -  "130" -1.0  1.0  40  60
+2 1  3  4 4D   W 10 S9      -  "130" -1.0  1.0  40  60
+5 1  9 10 4D   W 10 C2      -  "130" -1.0  1.0  40  60
+3 1  6  5 5D   E 11 SK      -  "400" -5.0  5.0   0 100
+7 1 14  - -    -  - -   "Bye"  "Bye"  0.9    -  59   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J864.2.AQ42.AKQ2 T97.K9875.J3.T83 KQ32.JT643.K9.95 A5.AQ.T8765.J764"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 1  1  2 5S   E 10 H7   "50"      -  5.0 -5.0 100   0
+6 1 12 11 1N   E  8 ST      -  "120"  3.0 -3.0  80  20
+3 1  6  5 3N   E  9 H9      -  "400"  0.0  0.0  50  50
+4 1  7  8 3N   E  9 C8      -  "400"  0.0  0.0  50  50
+5 1  9 10 4S   E 10 C2      -  "420" -3.0  3.0  20  80
+2 1  3  4 4S   E 11 ST      -  "450" -5.0  5.0   0 100
+7 1 14  - -    -  - -   "Bye"  "Bye"  0.9    -  59   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J2.543.Q9653.K85 K4.98762.A7.AJ94 AT93.AQJT.K.Q763 Q8765.K.JT842.T2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 1 12 11 2S   E  6 C5  "200"      -  5.0 -5.0 100   0
+3 1  6  5 2N   N 10 HK  "180"      -  3.0 -3.0  80  20
+1 1  1  2 1N   W  6 HQ  "100"      -  0.0  0.0  50  50
+5 1  9 10 2S   E  7 D3  "100"      -  0.0  0.0  50  50
+2 1  3  4 3N   N  7 HK      -  "100" -3.0  3.0  20  80
+4 1  7  8 2CX  W  8 DK      -  "180" -5.0  5.0   0 100
+7 1 14  - -    -  - -   "Bye"  "Bye"  0.9    -  59   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J98.87.AK8.KQ764 A4.AJ92.T76.AT98 KQ5.KT6.J9543.32 T7632.Q543.Q2.J5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+4 2  5 10 3N   E  7 HQ  "200"      -  5.0 -5.0 100   0
+1 2  1  4 2C   W  7 SA  "100"      -  2.0 -2.0  70  30
+3 2  8  3 1N   E  6 H3  "100"      -  2.0 -2.0  70  30
+2 2  2  6 3D   E  9 H3      -  "110" -1.0  1.0  40  60
+5 2  7 12 2N   E  8 H5      -  "120" -3.0  3.0  20  80
+6 2 14  9 1N   E  9 S6      -  "150" -5.0  5.0   0 100
+7 2  - 11 -    -  - -   "Bye"  "Bye"    - -2.4   -  26
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK64.J3.A9654.T9 QJT32.Q95.872.A6 97.AKT.KJ3.K8753 85.87642.QT.QJ42"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+3 2  8  3 3N   S 10 H8  "630"      -  4.0 -4.0  90  10
+6 2 14  9 3N   N 10 ST  "630"      -  4.0 -4.0  90  10
+1 2  1  4 5D   N 11 D8  "600"      -  0.0  0.0  50  50
+4 2  5 10 3N   N  9 SQ  "600"      -  0.0  0.0  50  50
+2 2  2  6 2N   S 11 H2  "210"      - -3.0  3.0  20  80
+5 2  7 12 3D   N 10 CA  "130"      - -5.0  5.0   0 100
+7 2  - 11 -    -  - -   "Bye"  "Bye"    - -2.4   -  26
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KJ2.AKQ53.T8.KJ7 53.J8742.AKJ76.2 T764.T.Q942.QT84 AQ98.96.53.A9653"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+4 2  5 10 2H   E  7 C2  "100"      -  5.0 -5.0 100   0
+1 2  1  4 1H   E  7 DA      -   "80"  3.0 -3.0  80  20
+5 2  7 12 1N   E  7 DA      -   "90"  1.0 -1.0  60  40
+3 2  8  3 2S   N  6 HA      -  "100" -1.0  1.0  40  60
+2 2  2  6 1N   E  8 D6      -  "120" -3.0  3.0  20  80
+6 2 14  9 2HX  E  8 C5      -  "670" -5.0  5.0   0 100
+7 2  - 11 -    -  - -   "Bye"  "Bye"    - -2.4   -  26
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:82.A7.J97.QJT982 A954.KT.A6543.64 K63.J43.KQT82.53 QJT7.Q98652..AK7"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+2 3  4  8 2N   E 10 CQ      -  "180"  5.0 -5.0 100   0
+4 3  3 12 3S   E 11 CQ      -  "200"  3.0 -3.0  80  20
+5 3  5 14 4S   W 10 DK      -  "620"  0.0  0.0  50  50
+3 3 10  2 4S   E 10 CQ      -  "620"  0.0  0.0  50  50
+1 3  1  6 4S   W 11 DK      -  "650" -4.0  4.0  10  90
+7 3 11  9 4S   E 11 CQ      -  "650" -4.0  4.0  10  90
+6 3  -  7 -    -  - -   "Bye"  "Bye"    - -1.0   -  40
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:75.AK972.KJT8.Q7 K9864.Q4.964.965 AQJ.83.A5.AKJT84 T32.JT65.Q732.32"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 3  1  6 3C   E 13 S2      -  "190"  5.0 -5.0 100   0
+2 3  4  8 6C   E 13 C2      -  "940"  3.0 -3.0  80  20
+3 3 10  2 6N   E 12 H5      -  "990"  1.0 -1.0  60  40
+4 3  3 12 6N   E 13 C3      - "1020" -3.0  3.0  20  80
+5 3  5 14 6N   E 13 ST      - "1020" -3.0  3.0  20  80
+7 3 11  9 6N   E 13 HJ      - "1020" -3.0  3.0  20  80
+6 3  -  7 -    -  - -   "Bye"  "Bye"    - -1.0   -  40
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ6.Q.K762.AK652 52.AK87653.T3.T7 KJT843.4.954.J43 97.JT92.AQJ8.Q98"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+2 3  4  8 5HX  E  9 C3  "500"      -  5.0 -5.0 100   0
+4 3  3 12 4S   S 10 HJ  "420"      -  3.0 -3.0  80  20
+1 3  1  6 1C   N 10 HA  "130"      -  1.0 -1.0  60  40
+5 3  5 14 4S   S  9 H9      -   "50" -2.0  2.0  30  70
+3 3 10  2 4S   S  9 H5      -   "50" -2.0  2.0  30  70
+7 3 11  9 3H   E  9 C4      -  "140" -5.0  5.0   0 100
+6 3  -  7 -    -  - -   "Bye"  "Bye"    - -1.0   -  40
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T98.AQ732.A.8742 AK7.4.KT976.KJT6 QJ42.KJT9.843.Q9 653.865.QJ52.A53"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+2 4  6 10 4D   S 11 HJ  "150"      -  5.0 -5.0 100   0
+1 4  1  8 2H   E  9 SA      -  "140" -1.0  1.0  40  60
+4 4  2 14 3H   E  9 D6      -  "140" -1.0  1.0  40  60
+7 4  9  7 3H   E  9 SA      -  "140" -1.0  1.0  40  60
+6 4 11  5 3H   E  9 SA      -  "140" -1.0  1.0  40  60
+3 4 12  4 3H   E  9 SA      -  "140" -1.0  1.0  40  60
+5 4  3  - -    -  - -   "Bye"  "Bye" -1.3    -  37   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT5.AK63.A.AQJ2 983.T74.QJ86.T97 J4.QJ2.K975.8643 A762.985.T432.K5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 4  1  8 3N   N 12 S2  "490"      -  4.0 -4.0  90  10
+7 4  9  7 3N   S 12 D6  "490"      -  4.0 -4.0  90  10
+2 4  6 10 4H   S 12 DQ  "480"      -  0.0  0.0  50  50
+6 4 11  5 4H   S 12 DQ  "480"      -  0.0  0.0  50  50
+4 4  2 14 3N   S 11 H9  "460"      - -3.0  3.0  20  80
+3 4 12  4 5C   S 12 DQ  "420"      - -5.0  5.0   0 100
+5 4  3  - -    -  - -   "Bye"  "Bye" -1.3    -  37   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8.T765.KQT5.QT5 T.Q2.A9832.AKJ74 QJ9752.K4.J76.93 K643.AJ983.4.862"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 4  1  8 3S   E  6 C8  "150"      -  4.0 -4.0  90  10
+4 4  2 14 2S   E  5 D4  "150"      -  4.0 -4.0  90  10
+2 4  6 10 4S   E  8 D4  "100"      -  1.0 -1.0  60  40
+7 4  9  7 5C   N 10 H5      -  "100" -1.0  1.0  40  60
+6 4 11  5 2S   E  8 D4      -  "110" -4.0  4.0  10  90
+3 4 12  4 2S   E  8 C8      -  "110" -4.0  4.0  10  90
+5 4  3  - -    -  - -   "Bye"  "Bye" -1.3    -  37   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:2.KJ6.AKJ86.A952 J98765.9732.Q43. AKQT43.Q5.T75.J4 .AT84.92.KQT8763"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 5  9  3 3N   N 10 S9  "630"      -  5.0 -5.0 100   0
+1 5  1 10 3N   N  9 S9  "600"      -  3.0 -3.0  80  20
+5 5  2 11 5C   W  7 DA  "400"      -  1.0 -1.0  60  40
+7 5  7  5 3D   N  9 S7  "110"      - -1.0  1.0  40  60
+2 5  8 12 4N   N  9 CK      -  "100" -4.0  4.0  10  90
+3 5 14  6 4S   S  9 CK      -  "100" -4.0  4.0  10  90
+4 5  4  - -    -  - -   "Bye"  "Bye"  1.2    -  62   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJ97543.83.K8.J4 A6.AK2.97632.T85 K82.QJ75.A5.AK92 T.T964.QJT4.Q763"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 5  2 11 2N   W  6 D4  "100"      -  5.0 -5.0 100   0
+1 5  1 10 4S   E 10 HA      -  "420"  0.0  0.0  50  50
+7 5  7  5 4S   E 10 HA      -  "420"  0.0  0.0  50  50
+6 5  9  3 4S   W 10 DQ      -  "420"  0.0  0.0  50  50
+3 5 14  6 4S   E 10 HA      -  "420"  0.0  0.0  50  50
+2 5  8 12 4S   E 11 HA      -  "450" -5.0  5.0   0 100
+4 5  4  - -    -  - -   "Bye"  "Bye"  1.2    -  62   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "15"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AQJ64.A3.K62.QT2 85.Q74.A9853.A85 T32.JT5.QJ4.J976 K97.K9862.T7.K43"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 5  9  3 1N   S  9 D4  "150"      -  5.0 -5.0 100   0
+5 5  2 11 1S   S  9 CA  "140"      -  2.0 -2.0  70  30
+2 5  8 12 3S   S  9 C5  "140"      -  2.0 -2.0  70  30
+3 5 14  6 1N   S  6 D9      -  "100" -1.0  1.0  40  60
+1 5  1 10 2H   E  9 SA      -  "140" -4.0  4.0  10  90
+7 5  7  5 3H   E  9 SA      -  "140" -4.0  4.0  10  90
+4 5  4  - -    -  - -   "Bye"  "Bye"  1.2    -  62   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT8762.AJ.Q732.7 Q9.K8742..QJ9654 AJ54.Q53.KT94.83 3.T96.AJ865.AKT2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+1 6  1 12 5C   N 11 SA  "400"      -  5.0 -5.0 100   0
+7 6  5  3 4C   N 10 SA  "130"      -  2.0 -2.0  70  30
+6 6  7  2 4C   S 10 HA  "130"      -  2.0 -2.0  70  30
+5 6  4  9 4H   N  9 C8      -   "50" -2.0  2.0  30  70
+4 6  6 11 5C   N 10 SA      -   "50" -2.0  2.0  30  70
+2 6 10 14 4DX  N  7 -       -  "500" -5.0  5.0   0 100
+3 6  -  8 -    -  - -   "Bye"  "Bye"    - -0.8   -  42
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K6.QT84.QT87.K42 AT975.AJ7653.5.6 J82.K9.AKJ4.J853 Q43.2.9632.AQT97"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+5 6  4  9 2N   N  9 H3  "150"      -  5.0 -5.0 100   0
+7 6  5  3 2N   S  8 CT  "120"      -  3.0 -3.0  80  20
+6 6  7  2 3D   S  7 H2      -  "100"  1.0 -1.0  60  40
+1 6  1 12 2S   E  9 DA      -  "140" -1.0  1.0  40  60
+4 6  6 11 5D   N  8 HA      -  "150" -3.0  3.0  20  80
+2 6 10 14 4S   W 10 H2      -  "420" -5.0  5.0   0 100
+3 6  -  8 -    -  - -   "Bye"  "Bye"    - -0.8   -  42
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "18"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:63.94.AKT854.K73 K742.JT63.62.JT5 AJ9.Q5.J3.AQ9862 QT85.AK872.Q97.4"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+7 6  5  3 3H   N  9 C3  "140"      -  5.0 -5.0 100   0
+4 6  6 11 5C   W  9 HA  "100"      -  3.0 -3.0  80  20
+1 6  1 12 3C   W  9 HA      -  "110"  1.0 -1.0  60  40
+6 6  7  2 4C   W 11 HA      -  "150" -1.0  1.0  40  60
+2 6 10 14 5C   W 11 HA      -  "400" -3.0  3.0  20  80
+5 6  4  9 3N   W 10 HA      -  "430" -5.0  5.0   0 100
+3 6  -  8 -    -  - -   "Bye"  "Bye"    - -0.8   -  42
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K94.J84.KQ73.932 T72.AQ97.865.AT6 AJ3.T53.T92.KQJ5 Q865.K62.AJ4.874"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+4 7  8  9 1N   N  9 S2  "150"      -  5.0 -5.0 100   0
+5 7  6  7 2S   E  7 D3  "100"      -  3.0 -3.0  80  20
+6 7  5  4 1N   N  7 S5   "90"      -  1.0 -1.0  60  40
+1 7  1 14 Pass -  - -     "0"      - -2.0  2.0  30  70
+7 7  3  2 Pass -  - -     "0"      - -2.0  2.0  30  70
+3 7 11 10 1H   W  8 CK      -  "110" -5.0  5.0   0 100
+2 7 12  - -    -  - -   "Bye"  "Bye"  0.3    -  53   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T8653.2.A76.K632 AKQ97.AK6.JT98.4 J42.9.KQ52.AJT87 .QJT87543.43.Q95"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+7 7  3  2 4H   S 12 S3  "680"      -  4.0 -4.0  90  10
+4 7  8  9 4H   S 12 C2  "680"      -  4.0 -4.0  90  10
+1 7  1 14 4H   S 10 C2  "620"      - -1.0  1.0  40  60
+6 7  5  4 4H   S 10 C3  "620"      - -1.0  1.0  40  60
+5 7  6  7 4H   S 10 DA  "620"      - -1.0  1.0  40  60
+3 7 11 10 3S   N  6 DK      -  "300" -5.0  5.0   0 100
+2 7 12  - -    -  - -   "Bye"  "Bye"  0.3    -  53   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:92.AJ95.A3.KQT75 KJ6.62.QJ87642.4 AT84.T8.K9.AJ983 Q753.KQ743.T5.62"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+7 7  3  2 3N   N 11 D2  "660"      -  5.0 -5.0 100   0
+6 7  5  4 5C   N 12 DQ  "620"      -  3.0 -3.0  80  20
+5 7  6  7 5D   E  8 CA  "150"      - -1.0  1.0  40  60
+4 7  8  9 4C   N 11 D2  "150"      - -1.0  1.0  40  60
+3 7 11 10 5D   E  8 CA  "150"      - -1.0  1.0  40  60
+1 7  1 14 4D   E  8 CA  "100"      - -5.0  5.0   0 100
+2 7 12  - -    -  - -   "Bye"  "Bye"  0.3    -  53   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K7.A985.T63.KJ53 AQJ82..A875.A982 96.KT7432.94.QT6 T543.QJ6.KQJ2.74"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+2 8 14 11 6S   S 12 HK  "980"      -  5.0 -5.0 100   0
+3 8  9 12 4S   N 12 H4  "480"      -  2.0 -2.0  70  30
+4 8 10  7 4S   S 12 CT  "480"      -  2.0 -2.0  70  30
+7 8  2  4 4S   S 11 H3  "450"      - -3.0  3.0  20  80
+6 8  3  6 4S   S 11 H4  "450"      - -3.0  3.0  20  80
+5 8  8  5 4S   S 11 H3  "450"      - -3.0  3.0  20  80
+1 8  1  - -    -  - -   "Bye"  "Bye"  0.7    -  57   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:8.QJ9864.T2.JT73 KQ65.KT7.QJ84.A5 AJ93.A2.73.K9864 T742.53.AK965.Q2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+7 8  2  4 4S   E  8 C3  "200"      -  3.0 -3.0  80  20
+4 8 10  7 4D   E  8 S8  "200"      -  3.0 -3.0  80  20
+2 8 14 11 4SX  W  9 HA  "200"      -  3.0 -3.0  80  20
+5 8  8  5 3N   W  8 C6  "100"      - -1.0  1.0  40  60
+3 8  9 12 1N   E  8 C3      -  "120" -3.0  3.0  20  80
+6 8  3  6 4S   W 10 D7      -  "620" -5.0  5.0   0 100
+1 8  1  - -    -  - -   "Bye"  "Bye"  0.7    -  57   -
+
+[Event "Spiren"]
+[Site "0164 Pass BK, Norge"]
+[Date "2016.11.09"]
+[Board "24"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:853.T92.AT63.762 J7.QJ83.Q942.K85 Q9642.AK75.J5.J9 AKT.64.K87.AQT43"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2016.11.09"]
+[Annotator "0164 Pass BK"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_NS\4R;MP_EW\4R;Percentage_NS\3R;Percentage_EW\3R"]
+6 8  3  6 3N   S 10 S8  "430"      -  4.0 -4.0  90  10
+3 8  9 12 3N   S 10 S5  "430"      -  4.0 -4.0  90  10
+4 8 10  7 3N   S  9 D6  "400"      -  1.0 -1.0  60  40
+5 8  8  5 2N   S 10 S2  "180"      - -1.0  1.0  40  60
+7 8  2  4 2N   S  9 S8  "150"      - -3.0  3.0  20  80
+2 8 14 11 3C   S 10 DA  "130"      - -5.0  5.0   0 100
+1 8  1  - -    -  - -   "Bye"  "Bye"  0.7    -  57   -

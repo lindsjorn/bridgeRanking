@@ -1,0 +1,702 @@
+% PBN 2.0
+% EXPORT
+% 
+% <META  name=Generator                  content="Ruter i Norge">
+% <META  name=Version                    content="4.11">
+% <META  name=Author                     content="www.brenning.se">
+% 
+% <META  name=Licencee                   content="9901 Norsk Bridgeforbund">
+% <META  name=Arranger                   content="0179 Spiren BK">
+% <META  name=Signature                  content="9901 Norsk Bridgeforbund">
+% <META  name=Created                    content="2017-04-17 21:27:59">
+% 
+% <META  name=ContestDate                content="2017-04-17">
+% <META  name=ContestName                content="Spiren 170417">
+% <META  name=ContestType                content="2">
+% <META  name=ScoringType                content="MatchPoints;MP1">
+% <META  name=Barometer                  content="Y">
+% <META  name=TournamentDirector         content=";;;;;;;;;;;;;;;;;;">
+% 
+% <META  name=TableCount                 content="6">
+% <META  name=PairCount                  content="12">
+% <META  name=PhantomCount               content="0">
+% <META  name=BoardCount                 content="24">
+% <META  name=RoundCount                 content="8">
+% <META  name=BoardCountSession          content="24">
+% <META  name=BoardCountSessionMax       content="24">
+% <META  name=Average                    content="">
+% <META  name=HandicapPercentageAverage  content="">
+% 
+% <META  name=CRCategoryID               content="1">
+% <META  name=Factor                     content="1">
+% <META  name=FactorReason               content="">
+% <META  name=ContestID                  content="">
+% <META  name=SerialNumber               content="321">
+% <META  name=PlayerCategoryCount        content="">
+% 
+% <META  name=CRMultiSession             content="">
+% <META  name=CRMultiSessionID           content="">
+% <META  name=CRSession                  content="">
+% <META  name=CRSessionCount             content="">
+% <META  name=CRCutAfterSession          content="">
+% 
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A8.AT963.AKQ6.K5 T754.2.97543.942 K92.KQJ84.T82.J7 QJ63.75.J.AQT863"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[TotalScoreTable "Rank\2R;RankTie\1R;PairId\2R;Table\1R;Direction\5R;TotalScoreMP\3R;TotalPercentage\5R;Names\46L;NrBoards\2R;Club\32L;MemberID1\7R;MemberID2\7R;Sex1\3R;Sex2\3R"]
+ 1 -  4 2 "E-W"  27 61.25 "Eitan Zuckermann - Dag Viljen Poleszynski"    24 "Oslo Døves BK - Pass BK"         "3237" "38594" "M" "M"
+ 2 -  6 3 "N-S"  15 56.25 "Torleif Lundgreen - Birgir Olafsson"          24 "Spiren BK - Departementenes BK"  "4406" "26833" "M" "M"
+ 3 4  1 1 "N-S"  11 54.58 "Kristoffer Hegge - Tommy Pedersen"            24 "Snåsa BK - Spiren BK"           "32815" "42399" "M" "M"
+ 3 4 11 6 "E-W"  11 54.58 "Liv Melander - Bjørg Opedal"                  24 "Hjerter Konge"                  "36403" "36417" "W" "W"
+ 5 -  7 4 "N-S"  10 54.17 "Inger Midthun - Ragnar Askheim"               24 "Hjerter Konge"                  "31427" "40352" "W" "M"
+ 6 - 12 6 "N-S"   5 52.08 "Halvor Dahl - Espen C. Fasting"               24 "Spiren BK - Bridgekameratene"   "42387" "13596" "M" "M"
+ 7 -  9 5 "N-S"   2 50.83 "Elisabeth Neubeck - Ragnhild Haug"            24 "Spiren BK"                      "41786" "37217" "W" "W"
+ 8 -  3 2 "N-S"   0 50.00 "Geir Børre Surdal - Bodil Johanne Knutsen"    24 "Kolbotn BK"                     "30443" "40392" "M" "W"
+ 9 -  5 3 "E-W"  -7 47.08 "Benedicte Borgersen - Leif-Erik Hoel Stabell" 24 "Spiren BK"                      "40430" "41785" "W" "M"
+10 -  8 4 "E-W" -17 42.92 "Vibeke Torgersen - Elisabet Hoel"             24 "Spiren BK"                      "38315" "38320" "W" "W"
+11 -  2 1 "E-W" -26 39.17 "Oddvar Ljønes - Synnøve Ljønes"               24 "Hjerter Konge"                  "36412" "40480" "M" "W"
+12 - 10 5 "E-W" -31 37.08 "Eva Hjulstad - Guro Skjæveland"               24 "Hjerter Konge"                  "26910" "37211" "W" "W"
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 1  1  2 6H   N 12 D9   "980"     -  4 -4  90  10
+4 1  7  8 6H   S 12 D2   "980"     -  4 -4  90  10
+2 1  3  4 5H   N 12 D8   "480"     - -1  1  40  60
+3 1  6  5 4H   N 12 C9   "480"     - -1  1  40  60
+5 1  9 10 4H   S 12 DJ   "480"     - -1  1  40  60
+6 1 12 11 6N   N 11 D3       -  "50" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQJ5.Q84.K7.8742 83.KT63.Q52.AKQ9 A762.AJ5.A3.T653 T94.972.JT9864.J"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+5 1  9 10 4S   E  8 CA   "100"     -  5 -5 100   0
+4 1  7  8 3S   E  8 D2    "50"     -  3 -3  80  20
+2 1  3  4 2S   E  9 CA       - "140"  1 -1  60  40
+1 1  1  2 1H   S  5 DA       - "200" -2  2  30  70
+6 1 12 11 3D   S  7 S2       - "200" -2  2  30  70
+3 1  6  5 3N   S  6 S2       - "300" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:9.A87653.942.JT7 KQ82.J9.T.KQ9643 AT765.T.KJ76.A85 J43.KQ42.AQ853.2"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 1  1  2 3DX  E  4 S9  "1400"     -  5 -5 100   0
+6 1 12 11 3D   E  6 S9   "300"     -  3 -3  80  20
+2 1  3  4 3N   E  8 S8   "100"     -  0  0  50  50
+3 1  6  5 3N   E  8 H3   "100"     -  0  0  50  50
+5 1  9 10 2S   N  6 C5       - "100" -3  3  20  80
+4 1  7  8 3N   E  9 D2       - "600" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J7.K93.Q87542.A6 KQ53.AJ82.T3.K94 AT642.Q4.KJ9.QT2 98.T765.A6.J8753"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+5 2  7 12 3S   E  7 D2   "200"     -  5 -5 100   0
+4 2  5 10 4C   N  9 D9       - "100"  2 -2  70  30
+6 2 11  9 2H   N  7 DK       - "100"  2 -2  70  30
+1 2  1  4 3D   W  9 D2       - "110" -2  2  30  70
+2 2  2  6 3D   W  9 C4       - "110" -2  2  30  70
+3 2  8  3 2D   W 10 C4       - "130" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJ42.J2.K97.T872 9873.A973.T8632. Q.KT84.54.AQ9543 AT65.Q65.AQJ.KJ6"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 2  1  4 3SX  W  7 C8   "300"     -  5 -5 100   0
+4 2  5 10 2S   W  7 HJ    "50"     -  3 -3  80  20
+6 2 11  9 1N   W  7 C2       -  "90"  1 -1  60  40
+5 2  7 12 2S   W  8 D2       - "110" -1  1  40  60
+2 2  2  6 1N   W  8 S2       - "120" -3  3  20  80
+3 2  8  3 2S   W  9 CT       - "140" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q5.T64.9.KQ98532 A832.KQJ.Q8753.6 KJ4.A9875.A62.AJ T976.32.KJT4.T74"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 2 11  9 4C   E 10 HK       - "130"  5 -5 100   0
+4 2  5 10 1N   W  9 DJ       - "150"  3 -3  80  20
+5 2  7 12 3H   W 10 D3       - "170"  1 -1  60  40
+1 2  1  4 5C   E 11 HK       - "600" -2  2  30  70
+3 2  8  3 5C   E 11 SA       - "600" -2  2  30  70
+2 2  2  6 4H   W 10 C2       - "620" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AKJ.52.QT85.8643 2.A6.AJ9762.Q975 T876543.KQT.K.J2 Q9.J98743.43.AKT"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 3  9  7 3S   N 11 D4   "200"     -  4 -4  90  10
+3 3 10  2 4H   E  8 SK   "200"     -  4 -4  90  10
+2 3  4  8 3S   N  9 CA   "140"     -  1 -1  60  40
+1 3  1  6 4H   E  9 SA   "100"     - -1  1  40  60
+4 3  3 12 4SX  N  9 -        - "200" -3  3  20  80
+5 3  5 11 4H   E 10 S8       - "620" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK.9652.A942.AJ4 543.AT4.QJ853.86 JT98.Q8.7.KQT953 Q762.KJ73.KT6.72"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+2 3  4  8 2N   W  9 DQ       - "150"  4 -4  90  10
+5 3  5 11 2N   W  9 DQ       - "150"  4 -4  90  10
+6 3  9  7 3N   W  9 DQ       - "400"  0  0  50  50
+3 3 10  2 3N   W  9 D3       - "400"  0  0  50  50
+1 3  1  6 4S   W 10 DQ       - "420" -3  3  20  80
+4 3  3 12 3N   W 10 D5       - "430" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQJ42.64.97.KJ95 A875.T872.AJ86.Q 96.A95.T42.A8763 T3.KQJ3.KQ53.T42"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 3  9  7 4H   W  8 SK   "200"     -  5 -5 100   0
+3 3 10  2 Pass -  - -      "0"     -  3 -3  80  20
+1 3  1  6 2H   W  9 SK       - "140"  0  0  50  50
+2 3  4  8 3H   W  9 SK       - "140"  0  0  50  50
+5 3  5 11 3H   W 10 SK       - "170" -3  3  20  80
+4 3  3 12 4H   W 10 SK       - "620" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:95432.964.K32.65 .AK852.QT9765.A3 AQT6.QJ7.8.KQ842 KJ87.T3.AJ4.JT97"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+2 4  6 10 6D   S 12 SA  "1370"     -  5 -5 100   0
+4 4  2 11 3N   N 10 H9   "630"     -  2 -2  70  30
+6 4  7  5 3N   N 10 D2   "630"     -  2 -2  70  30
+1 4  1  8 4H   S 10 CK   "620"     - -1  1  40  60
+5 4  3  9 2N   N 10 C3   "180"     - -3  3  20  80
+3 4 12  4 3D   S 11 D8   "150"     - -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK842.J97.T.KJ85 QJ76.Q.AKQ643.T9 T93.AT3.J92.A743 5.K86542.875.Q62"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 4  1  8 2S   S  9 DA   "140"     -  4 -4  90  10
+3 4 12  4 3S   N  9 DK   "140"     -  4 -4  90  10
+6 4  7  5 4D   W  9 D2    "50"     -  1 -1  60  40
+4 4  2 11 3S   S  8 DA       -  "50" -3  3  20  80
+5 4  3  9 2S   S  7 DA       -  "50" -3  3  20  80
+2 4  6 10 3S   S  8 DA       -  "50" -3  3  20  80
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K864.T32.8.J9865 Q32.AQ754.AQ9.A3 A95.K8.KJT53.KQ7 JT7.J96.7642.T42"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+2 4  6 10 1N   N  9 D3   "150"     -  5 -5 100   0
+6 4  7  5 2H   N  9 D2   "140"     -  3 -3  80  20
+4 4  2 11 2N   N  8 C2   "120"     -  1 -1  60  40
+1 4  1  8 1N   E  7 H9       -  "90" -2  2  30  70
+5 4  3  9 1N   E  7 H3       -  "90" -2  2  30  70
+3 4 12  4 3H   N  7 S5       - "200" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKJ62.9.K862.A83 954.JT732.QT7.J5 T8.Q8654.A.KQT96 Q73.AK.J9543.742"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 5  1 10 3N   N 13 D7   "720"     -  5 -5 100   0
+5 5  2  7 3N   N 12 C2   "690"     -  1 -1  60  40
+2 5  8 12 3N   N 12 H2   "690"     -  1 -1  60  40
+3 5 11  6 3N   N 12 DQ   "690"     -  1 -1  60  40
+4 5  4  9 3N   S 11 C7   "660"     - -4  4  10  90
+6 5  5  3 3N   S 11 HA   "660"     - -4  4  10  90
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQT975.J7.T2.AK7 K64.AK86.KQ3.QJ4 83.QT52.AJ98.986 J2.943.7654.T532"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+2 5  8 12 4S   E  9 HA    "50"     -  5 -5 100   0
+1 5  1 10 1N   S  5 S8       - "100"  3 -3  80  20
+5 5  2  7 2S   E  8 HA       - "110"  1 -1  60  40
+3 5 11  6 2S   E  9 HA       - "140" -1  1  40  60
+4 5  4  9 2S   E 10 HK       - "170" -4  4  10  90
+6 5  5  3 2S   E 10 H2       - "170" -4  4  10  90
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "15"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A96.KQJ963.64.92 KJ753.7.K82.QJ64 84.A82.AQT973.K7 QT2.T54.J5.AT853"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+4 5  4  9 4S   S 10 CQ   "620"     -  5 -5 100   0
+6 5  5  3 3H   S 10 H7   "170"     -  3 -3  80  20
+2 5  8 12 3H   S  9 CQ   "140"     -  1 -1  60  40
+1 5  1 10 4H   S  9 S5       - "100" -1  1  40  60
+5 5  2  7 3S   W  9 HA       - "140" -3  3  20  80
+3 5 11  6 3S   W 10 S8       - "170" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QT97.K865.T3.A52 J4.Q943.J4.KQT87 AK652.JT72.A87.3 83.A.KQ9652.J964"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+4 6  6  7 3S   E 10 HA       - "170"  5 -5 100   0
+1 6  1 12 4S   E 10 HA       - "620" -1  1  40  60
+6 6  3  2 4S   E 10 HA       - "620" -1  1  40  60
+5 6  4  5 4S   E 10 DK       - "620" -1  1  40  60
+3 6  9  8 4S   E 10 C6       - "620" -1  1  40  60
+2 6 10 11 4S   E 10 HA       - "620" -1  1  40  60
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T52.96.K643.Q953 9.AJT7532.8.AKJ8 KQ876.8.AQ92.T62 AJ43.KQ4.JT75.74"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+5 6  4  5 3N   W 10 S2       - "430"  5 -5 100   0
+4 6  6  7 5H   E 12 H8       - "480"  3 -3  80  20
+1 6  1 12 4SX  S  6 HK       - "800"  1 -1  60  40
+6 6  3  2 6H   E 12 DA       - "980" -3  3  20  80
+3 6  9  8 6H   E 12 C6       - "980" -3  3  20  80
+2 6 10 11 6H   E 12 DA       - "980" -3  3  20  80
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "18"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:62.AKT65.KT43.75 .J9742.J8752.AQ3 AKQT97.Q.6.KT982 J8543.83.AQ9.J64"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 6  3  2 4SX  W  7 H8   "500"     -  5 -5 100   0
+2 6 10 11 3N   E  7 D3   "100"     -  3 -3  80  20
+5 6  4  5 4S   W  9 DA    "50"     - -1  1  40  60
+4 6  6  7 4S   W  9 H8    "50"     - -1  1  40  60
+3 6  9  8 4S   W  9 H8    "50"     - -1  1  40  60
+1 6  1 12 4SX  W 11 H8       - "690" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:QJ94.AQ964.J8.K3 532.JT32.A2.AT98 K7.K8.T653.J7652 AT86.75.KQ974.Q4"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+2 7 12  9 1N   N  8 S6   "120"     -  5 -5 100   0
+5 7  6  3 1H   S  8 DA   "110"     -  3 -3  80  20
+3 7  7 10 2D   E  7 D2   "100"     -  1 -1  60  40
+1 7  1 11 2H   S  6 D6       - "100" -2  2  30  70
+6 7  2  4 2N   N  6 DK       - "100" -2  2  30  70
+4 7  8  5 3N   N  5 D7       - "200" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ873.QT.KJ532.A T2.AK743.A74.K73 A954.J.Q.QJT9842 K6.98652.T986.65"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 7  1 11 5S   W 10 H5   "100"     -  5 -5 100   0
+3 7  7 10 3S   W  9 D2       - "140"  3 -3  80  20
+6 7  2  4 4S   W 10 HA       - "620" -1  1  40  60
+5 7  6  3 4S   W 10 HA       - "620" -1  1  40  60
+4 7  8  5 4S   W 10 HA       - "620" -1  1  40  60
+2 7 12  9 4SX  W 10 HA       - "790" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A.AK4.J98532.T94 JT82.J52.AQ6.Q62 973.T93.T7.J8753 KQ654.Q876.K4.AK"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+3 7  7 10 2S   W 10 D2       - "170"  5 -5 100   0
+6 7  2  4 4S   W 10 D2       - "420"  0  0  50  50
+5 7  6  3 4S   W 10 HA       - "420"  0  0  50  50
+4 7  8  5 4S   E 10 DT       - "420"  0  0  50  50
+2 7 12  9 4S   W 10 HA       - "420"  0  0  50  50
+1 7  1 11 3N   E 10 DT       - "430" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q75.Q62.7.QJT964 T94.K9743.AK6.A2 AK62.A5.QT532.73 J83.JT8.J984.K85"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 8  4  6 3S   W  6 HJ   "300"     -  5 -5 100   0
+2 8 11  7 2H   S  8 SA   "110"     -  3 -3  80  20
+1 8  1  9 2H   S  6 C2       - "100"  0  0  50  50
+3 8  5 12 3H   S  7 SA       - "100"  0  0  50  50
+5 8  8  2 3C   E  9 DK       - "110" -3  3  20  80
+4 8 10  3 4HX  S  7 SA       - "500" -5  5   0 100
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K.843.KJ72.T9652 AQT84.AT9.AQ6.83 J973.J2.43.AKJ74 652.KQ765.T985.Q"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+6 8  4  6 1S   W  8 CA       - "110"  5 -5 100   0
+1 8  1  9 2H   W  9 CA       - "140"  2 -2  70  30
+5 8  8  2 3S   W  9 CA       - "140"  2 -2  70  30
+4 8 10  3 2H   W 10 CA       - "170" -1  1  40  60
+3 8  5 12 2H   W 11 S9       - "200" -4  4  10  90
+2 8 11  7 2H   W 11 D2       - "200" -4  4  10  90
+
+[Event "Spiren 170417"]
+[Site "9901 Norsk Bridgeforbund, Norge"]
+[Date "2017.04.17"]
+[Board "24"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J74.Q973.KQ94.65 T53.T52.A.KT9843 KQ982.K.J87653.J A6.AJ864.T2.AQ72"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2017.04.17"]
+[Annotator "9901 Norsk Bridgeforbund"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PairId_NS\2R;PairId_EW\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\5R;MP_NS\2R;MP_EW\2R;Percentage_NS\3R;Percentage_EW\3R"]
+1 8  1  9 5DX  E  9 H2   "300"     -  4 -4  90  10
+6 8  4  6 5DX  W  9 H2   "300"     -  4 -4  90  10
+4 8 10  3 3H   S 10 C6   "170"     -  1 -1  60  40
+5 8  8  2 4S   E  9 HA    "50"     - -2  2  30  70
+2 8 11  7 3S   E  8 HA    "50"     - -2  2  30  70
+3 8  5 12 4HX  S  9 DK       - "100" -5  5   0 100
